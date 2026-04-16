@@ -1,0 +1,1088 @@
+{
+  "version": 1,
+  "updated_at": 1776366554449,
+  "history": {
+    "tmdb-220150": {
+      "id": "220150",
+      "title": "Pokémon Horizons",
+      "type": "anime",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1766601268215,
+      "poster_path": "/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+      "progress": {
+        "watched": 1363.9816413246679,
+        "duration": 3600
+      },
+      "rating": "TV-Y7",
+      "seasons": [
+        {
+          "air_date": "2024-01-05",
+          "episode_count": 1,
+          "id": 371525,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2023-04-14",
+          "episode_count": 125,
+          "id": 328311,
+          "name": "Series 1",
+          "overview": "A new adventure is beginning within the wide world of Pokémon! Arriving at Indigo Academy, a little girl named Liko receives her first partner Pokémon, Sprigatito. But she soon finds herself pursued by the Explorers, a mysterious group that's determined to take the pendant necklace she wears. Liko isn't on her own, though, as Friede, Captain Pikachu, and the other Rising Volt Tacklers offer her protection aboard their airship. Meanwhile, a young boy named Roy dreams of becoming a Pokémon Trainer, unaware of the secret hiding within the Ancient Poké Ball he carries. As Liko, Roy, and the Rising Volt Tacklers set sail for new horizons, what kind of discoveries await?",
+          "poster_path": "/1tfB5JQ0Zij0QbJMkO8yWjo5sZO.jpg",
+          "season_number": 1,
+          "vote_average": 9.6
+        }
+      ]
+    },
+    "tmdb-1952": {
+      "id": "1952",
+      "type": "tv",
+      "title": "Mystery Science Theater 3000",
+      "poster_path": "/nNeb35RFoeLwxu0CFzZ9NAI5UTA.jpg",
+      "progress": {
+        "watched": 2440.911399768934,
+        "duration": 3600
+      },
+      "last_season_watched": "3",
+      "last_episode_watched": "4",
+      "last_updated": 1768365757562,
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": null,
+          "episode_count": 194,
+          "id": 5720,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/iVxSoCwCvSgEbYmPHjY8tzqpP6P.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1989-11-25",
+          "episode_count": 13,
+          "id": 5721,
+          "name": "Season 1",
+          "overview": "In season 1, trapped by mad scientists Dr. Forrester and Dr. Erhardt, Joel Robinson and his robot pals face off against movies like THE CRAWLING EYE and ROBOT HOLOCAUST.",
+          "poster_path": "/miJRxIHJWMWBlB6nffwszkKclUG.jpg",
+          "season_number": 1,
+          "vote_average": 7.2
+        },
+        {
+          "air_date": "1990-09-22",
+          "episode_count": 13,
+          "id": 5722,
+          "name": "Season 2",
+          "overview": "In Season 2, Joel Robinson’s torment continues as Dr. Forrester and TV’s Frank inflict such horrors as CATALINA CAPER and THE SIDEHACKERS.",
+          "poster_path": "/qvNA3wamAYFblbyMfRU7iZEW23Q.jpg",
+          "season_number": 2,
+          "vote_average": 7.3
+        },
+        {
+          "air_date": "1991-06-01",
+          "episode_count": 24,
+          "id": 5723,
+          "name": "Season 3",
+          "overview": "In season 3, Joel and the bots tackle all five original-run GAMERA episodes and the beloved classic POD PEOPLE.",
+          "poster_path": "/17eDNVO0qXV9kLDeg97omTJUswX.jpg",
+          "season_number": 3,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "1992-06-06",
+          "episode_count": 24,
+          "id": 5724,
+          "name": "Season 4",
+          "overview": "MST3K shifts into high gear as the unforgettable MANOS: THE HANDS OF FATE makes its indelible mark on Joel, Tom Servo, and Crow. This season also includes THE DAY THE EARTH FROZE, although we never did find out what a Sampo is.",
+          "poster_path": "/edxJwBu731kKJcUKAS2jq6xMglh.jpg",
+          "season_number": 4,
+          "vote_average": 7.2
+        },
+        {
+          "air_date": "1993-07-24",
+          "episode_count": 24,
+          "id": 5725,
+          "name": "Season 5",
+          "overview": "MST3K changes hosts for the first time when Joel Robinson escapes and is replaced by Mike Nelson. Joel’s departure is marked by the iconic MITCHELL, and Mike enters the arena with THE BRAIN THAT WOULDN'T DIE. Season 5 also includes Joel’s favorite episode, I ACCUSE MY PARENTS.",
+          "poster_path": "/7pkJO7ubeNlHHPnHNXKKYdGArWj.jpg",
+          "season_number": 5,
+          "vote_average": 7.7
+        },
+        {
+          "air_date": "1994-07-16",
+          "episode_count": 24,
+          "id": 5726,
+          "name": "Season 6",
+          "overview": "Season 6 of MST3K brought the works of Coleman Francis to the Satellite of Love, with RED ZONE CUBA and THE SKYDIVERS. Mike and the bots also suffer a ZOMBIE NIGHTMARE they won’t soon forget.",
+          "poster_path": "/xfk9u3Gm5VTVV56V9k6RCNQsmO.jpg",
+          "season_number": 6,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "1996-02-03",
+          "episode_count": 6,
+          "id": 5727,
+          "name": "Season 7",
+          "overview": "Season 7 encourages Mike, Tom, and Crow to leave the Bronx with ESCAPE 2000 – and they take the suggestion to escape very seriously in LASERBLAST, when the SOL crew transforms themselves into non-corporeal beings of pure energy to go play on the edge of the universe.",
+          "poster_path": "/1Du0qbfDYLfA6sFZhrajQYFDmdV.jpg",
+          "season_number": 7,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "1997-02-01",
+          "episode_count": 22,
+          "id": 5728,
+          "name": "Season 8",
+          "overview": "Season 8 picks up 500 years after the last episode, as Mike and the bots are forcibly returned to the Satellite of Love, where Pearl Forrester, Professor Bobo, and Brain Guy are eager to inflict such gems as SPACE MUTINY and TIME CHASERS on our hapless heroes.",
+          "poster_path": "/hfKu4j2ZSwYF1PyGwCK7Fu0D7Vf.jpg",
+          "season_number": 8,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "1998-03-14",
+          "episode_count": 13,
+          "id": 5729,
+          "name": "Season 9",
+          "overview": "In Season 9, Pearl, Bobo, and Brain Guy set up shop in Castle Forrester while Mike, Tom Servo, and Crow continue to suffer under the burden of riffing movies like THE PUMAMAN and WEREWOLF.",
+          "poster_path": "/13AivoXCCauohLxV4CmdzbBDuLM.jpg",
+          "season_number": 9,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "1999-04-11",
+          "episode_count": 13,
+          "id": 5730,
+          "name": "Season 10",
+          "overview": "In the final season of MST3K's original classic run, Pearl Forrester aspires to become an accredited mad scientist and imposes BOGGY CREEK II: AND THE LEGEND CONTINUES and GIRL IN GOLD BOOTS on Mike and the bots.",
+          "poster_path": "/442y9UTlDjqvKVJk2mWwjyjxbF6.jpg",
+          "season_number": 10,
+          "vote_average": 7.2
+        }
+      ]
+    },
+    "tmdb-61833": {
+      "id": "61833",
+      "type": "tv",
+      "title": "Expedition Unknown",
+      "poster_path": "/4OiM6apNckkqo04I7TO5VmQl65R.jpg",
+      "progress": {
+        "watched": 1858.5244964181231,
+        "duration": 3600
+      },
+      "last_season_watched": "7",
+      "last_episode_watched": "8",
+      "last_updated": 1775760349837,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2015-11-11",
+          "episode_count": 122,
+          "id": 79511,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/mUware2yjBO61XtoBm7KYfrzmES.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2015-01-08",
+          "episode_count": 12,
+          "id": 64386,
+          "name": "Season 1",
+          "overview": "Armed with a degree in archaeology, a quick wit and a hunger for adventure, Josh Gates investigates the latest developments in each unsolved legend before embarking on a fully immersive exploration. To separate fact from fiction, Gates inserts himself in different cultures to understand the world as they do. Whether he's trekking through Fiji in search of Amelia Earhart's remains or diving the deep seas of Panama to locate Captain Morgan's pirate ship, Gates' authentic roughshod adventures lead him one step closer to finding the truth.",
+          "poster_path": "/fEwUFctSTSaJI7GZi2siqYB0MUX.jpg",
+          "season_number": 1,
+          "vote_average": 5.8
+        },
+        {
+          "air_date": "2015-10-07",
+          "episode_count": 19,
+          "id": 71174,
+          "name": "Season 2",
+          "overview": "Leaving no stone unturned, Josh Gates' adventures take him around the globe as he immerses himself in the core locales linked to each tale. From excavating ruins in search of the real Robin Hood to sailing the high seas investigating Christopher Columbus and exploring Nepal's \"sky caves\" for Shangri La, Gates' archaeological background and ubiquitous sense of humor generate a new take on age-old stories.",
+          "poster_path": "/nt1HZ66NY1Ebq8cLftWC0gAS5tT.jpg",
+          "season_number": 2,
+          "vote_average": 5
+        },
+        {
+          "air_date": "2016-11-02",
+          "episode_count": 17,
+          "id": 80826,
+          "name": "Season 3",
+          "overview": "The third season takes on such lingering questions as: Who was D.B. Cooper and what became of him? Is Captain Kidd's lost treasure still out there waiting to be found? Where is Attila the Hun's tomb? From excavating ruins and jumping out of planes to diving for treasure in the deep seas, Josh Gates goes on sixteen thrilling expeditions and they are some of his biggest adventures yet.",
+          "poster_path": "/rXElac32D1qbQr86qVpksIGUPB1.jpg",
+          "season_number": 3,
+          "vote_average": 5.4
+        },
+        {
+          "air_date": "2017-12-27",
+          "episode_count": 10,
+          "id": 97104,
+          "name": "Season 4",
+          "overview": "This time, Josh Gates' insatiable curiosity and appetite for adventure leads him to destinations around the world, uncovering the truth behind more illustrious legends and fascinating lore. With access to the latest research and scientific technology, Gates tackles twelve all-new expeditions, including: the history of the mighty Vikings; the mystery of Stonehenge; the lost tombs of the Mayan Snake Kings; the search for a ship trapped in the dunes of Australia; a quest for the true identity of Nefertiti; and the hunt for twelve buried treasure boxes hidden right here in America.",
+          "poster_path": "/bwvl4CmFts2MrGLm5ibTVeHPlRi.jpg",
+          "season_number": 4,
+          "vote_average": 5.6
+        },
+        {
+          "air_date": "2018-05-29",
+          "episode_count": 7,
+          "id": 104505,
+          "name": "Season 5",
+          "overview": "From a long-lost city hidden in the vast jungles of Guatemala to the hunt for a stolen pair of the iconic (and priceless) ruby slippers from The Wizard of Oz, avid explorer Josh Gates sets out across the globe to investigate the greatest mysteries of all time. The series kicks off its Discovery debut with a two-part quest to the lost-city of El Mirador deep in the Guatemalan rainforest.",
+          "poster_path": "/aJOuoyVMkbUdXvhdcQEW2co9OeB.jpg",
+          "season_number": 5,
+          "vote_average": 5
+        },
+        {
+          "air_date": "2018-10-07",
+          "episode_count": 4,
+          "id": 125702,
+          "name": "Season 6: Search for the Afterlife",
+          "overview": "Josh Gates journeys across the globe to investigate into the spirit world and answer mankind's greatest unsolved mystery: Where do we go when we die? From a ghost hunt at one of the most haunted places on earth to getting a firsthand glimpse of the afterlife with ancient medicine, Josh will put it all on the line for a glance of what's beyond this life.",
+          "poster_path": "/u6zMet9e3V97dSgiutjAeG4fQhW.jpg",
+          "season_number": 6,
+          "vote_average": 5
+        },
+        {
+          "air_date": "2019-04-07",
+          "episode_count": 9,
+          "id": 125701,
+          "name": "Season 7",
+          "overview": "Ardent explorer and adventurer, Josh Gates has traveled to the ends of the earth investigating the greatest legends in history. Now, he's back with his most daring adventures yet. From following in the footsteps of the real Indiana Jones to learn the truth behind the fabled Crystal Skull of Doom, to diving the Great Lakes in search of the Holy Grail of lost American shipwrecks, The Griffon, Josh takes viewers on exhilarating expeditions around the world. An epic 2-hour event live from Egypt kicks off the new season.",
+          "poster_path": "/3CfOhRB8ICLJC4DVg9zMT1JnhsU.jpg",
+          "season_number": 7,
+          "vote_average": 5
+        },
+        {
+          "air_date": "2019-08-08",
+          "episode_count": 13,
+          "id": 129224,
+          "name": "Season 8",
+          "overview": "",
+          "poster_path": "/4vSbJaTk8z39CK0c8ayrUTm5CBl.jpg",
+          "season_number": 8,
+          "vote_average": 5.8
+        },
+        {
+          "air_date": "2020-02-05",
+          "episode_count": 8,
+          "id": 142824,
+          "name": "Season 9",
+          "overview": "",
+          "poster_path": "/nuAq2835N3S6dHbPELLgKVZyPc9.jpg",
+          "season_number": 9,
+          "vote_average": 5.1
+        },
+        {
+          "air_date": "2021-07-21",
+          "episode_count": 6,
+          "id": 203204,
+          "name": "Season 10",
+          "overview": "",
+          "poster_path": "/qzf9YldbbUscvSHCb0q6puVDBnd.jpg",
+          "season_number": 10,
+          "vote_average": 5.2
+        },
+        {
+          "air_date": "2022-05-25",
+          "episode_count": 14,
+          "id": 295125,
+          "name": "Season 11",
+          "overview": "",
+          "poster_path": "/yk0tU6SSGCCm5u6juzwMGE2qNRN.jpg",
+          "season_number": 11,
+          "vote_average": 5
+        },
+        {
+          "air_date": "2023-05-24",
+          "episode_count": 8,
+          "id": 340010,
+          "name": "Season 12",
+          "overview": "",
+          "poster_path": "/4OiM6apNckkqo04I7TO5VmQl65R.jpg",
+          "season_number": 12,
+          "vote_average": 6.1
+        },
+        {
+          "air_date": "2023-11-15",
+          "episode_count": 8,
+          "id": 365616,
+          "name": "Season 13",
+          "overview": "",
+          "poster_path": "/kn4Z63BkWSikMwF7NPOVG4NCIWU.jpg",
+          "season_number": 13,
+          "vote_average": 10
+        },
+        {
+          "air_date": "2024-06-20",
+          "episode_count": 7,
+          "id": 399136,
+          "name": "Season 14",
+          "overview": "",
+          "poster_path": "/xjv6BSptR8CG9drwi6wSbPg5eIN.jpg",
+          "season_number": 14,
+          "vote_average": 7
+        },
+        {
+          "air_date": "2024-10-09",
+          "episode_count": 6,
+          "id": 421762,
+          "name": "Season 15",
+          "overview": "",
+          "poster_path": "/eVcNyPJIc2KqUdgM49VVzugymUL.jpg",
+          "season_number": 15,
+          "vote_average": 7.3
+        },
+        {
+          "air_date": "2025-06-18",
+          "episode_count": 8,
+          "id": 458241,
+          "name": "Season 16",
+          "overview": "",
+          "poster_path": "/7Nq0GA98esfrPlamWrCivYsYQ6g.jpg",
+          "season_number": 16,
+          "vote_average": 7
+        },
+        {
+          "air_date": "2025-11-05",
+          "episode_count": 6,
+          "id": 483575,
+          "name": "Season 17",
+          "overview": "",
+          "poster_path": "/v0RKIW5gAnrVEi7uMcETQig6SUu.jpg",
+          "season_number": 17,
+          "vote_average": 6.7
+        }
+      ]
+    },
+    "tmdb-655": {
+      "id": "655",
+      "title": "Star Trek: The Next Generation",
+      "type": "tv",
+      "last_season_watched": "3",
+      "last_episode_watched": "9",
+      "last_updated": 1776083622776,
+      "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+      "progress": {
+        "watched": 251.33311893304287,
+        "duration": 3600
+      },
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "2012-07-23",
+          "episode_count": 137,
+          "id": 1996,
+          "name": "Specials",
+          "overview": "Special installments of the series.",
+          "poster_path": "/eg2cYEp74IyWM6gDC6y7g3dDbu.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1987-09-28",
+          "episode_count": 25,
+          "id": 1989,
+          "name": "Season 1",
+          "overview": "Picking up decades after the original Star Trek series, season one begins the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
+          "poster_path": "/t1g6GLBQj8pfAla4qA0r5TnLw0R.jpg",
+          "season_number": 1,
+          "vote_average": 6.6
+        },
+        {
+          "air_date": "1988-11-21",
+          "episode_count": 22,
+          "id": 1990,
+          "name": "Season 2",
+          "overview": "In season two, the Enterprise continues on its journey across the galaxy with the birth of a new member. Picard once again leads the team as unknown civilizations take notice of the ship and wishes to know more about the crew and their operations. Riker struggles with his loyalty to the Enterprise as his life is threatened and Data tries to become more human to understand his role upon the Enterprise. This season looks closer into the relationship of man vs. machine as Q once again tries to test Picard against a new enemy. The Ferengi threatens the Enterprise and the mystery of the holodeck pits the crew against the clock as lives hang in the balance.",
+          "poster_path": "/3recmOpquLOM31YOvVNQlR6U94H.jpg",
+          "season_number": 2,
+          "vote_average": 6.6
+        },
+        {
+          "air_date": "1989-09-25",
+          "episode_count": 26,
+          "id": 1995,
+          "name": "Season 3",
+          "overview": "With the disappearance of a Federation colony, the Enterprise warp speeds to action to uncover if the reason was political or something much more sinister. Along their travels, the crew must escort a scientist who may hold the key to a malfunction that places the crew in danger. Prime Directives are broken as Picard is taken for a god on a primitive world. The Romulans continue to notice Federation intrusion into the Neutral Zone and threatens war against the Enterprise. Things become much more complex as an old enemy stops by and Picard must decide if he should offer solace or choose to remain enemies as a precaution. All leading up to finally answering the motives of Starfleet and the Federation as the Enterprise continues on its mission to explore the galaxy.",
+          "poster_path": "/odNdFj4dblGPRfwdDo7U0599fWI.jpg",
+          "season_number": 3,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "1990-09-24",
+          "episode_count": 26,
+          "id": 1991,
+          "name": "Season 4",
+          "overview": "As Riker tries to save the Enterprise and the Earth from a powerful alien race, Captain Picard's life hangs in the balance. The crew faces their own demons and must overcome their own obstacles to continue their mission. This leads Data to return to his creator to better understand emotions. Worf must accept his Klingon heritage and face his former family. A power struggle threatens the Federation as the Romulans try to make peace with their universe and the Klingons deal with a potential successor to their empire. Political relations are strained within the Enterprise as a rogue ship attacks former enemies of the Federation, ultimately leading up to a civil war where one member of the Enterprise must decide where his loyalty lies.",
+          "poster_path": "/x56cmiHHvKIDRBHSTUohNYxtDHS.jpg",
+          "season_number": 4,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "1991-09-23",
+          "episode_count": 26,
+          "id": 1992,
+          "name": "Season 5",
+          "overview": "In season five, Starfleet becomes involved in a vast conspiracy amidst a Klingon civil war which forces the Enterprise to become an unwilling pawn against the Romulans as Starfleet's motives are unknown. This leads Picard and Data to undertake a journey to seek out a mysterious member who is trying to make peace between the Romulans and the Vulcans. Meanwhile, a visitor from the future arrives on the Enterprise as Wolf struggles with his own handicap. The crew becomes even more conflicted as an injured enemy arrives. Peace is seen on the horizon but at what cost?",
+          "poster_path": "/eVlZ16kGyaHMHKc6YwzvoGBmZ1e.jpg",
+          "season_number": 5,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "1992-09-21",
+          "episode_count": 26,
+          "id": 1993,
+          "name": "Season 6",
+          "overview": "In season six, the crew is faced with a familiar face from the past who insists that machines cannot replace human experience. This causes conflict in Data who questions his affiliation with the Enterprise vs. joining a powerful enemy in order to feel his first emotion. Worf begins a quest to find his father as a means to finally accept his Klingon heritage and to restore honor upon his family. As the journey continues through the galaxy, Picard is kidnapped by a rebel alien command and Riker takes on the role of Captain to free Picard and restore the Enterprise. To Riker’s surprise, an old enemy returns and offers assistance with Picard’s rescue. All finishing with the Enterprise facing its most shocking surprise.",
+          "poster_path": "/l6POnlAk5vQgmru2dxm1Yns9kYl.jpg",
+          "season_number": 6,
+          "vote_average": 7.2
+        },
+        {
+          "air_date": "1993-09-20",
+          "episode_count": 25,
+          "id": 1994,
+          "name": "Season 7",
+          "overview": "In the seventh and final season, Riker goes undercover and rediscovers Picard posing as a mercenary on an alien ship. Together they initiate a plan to find a lethal artifact. The crew struggles to deal with Data's new found human elements which cause several traumatic episodes for the crew. As Picard is imprisoned by an alien race, he comes to terms with past emotions. Riker is once again conflicted between his loyalty to Picard and his obligation to Starfleet and the Federation. As the lives of the crew members are endangered, Picard is taken on a journey to the past, present, and future to see the results of his actions.",
+          "poster_path": "/8l5YMZo4KwvE9dQMvrr53nXkR28.jpg",
+          "season_number": 7,
+          "vote_average": 6.7
+        }
+      ]
+    },
+    "tmdb-3137": {
+      "id": "3137",
+      "type": "tv",
+      "title": "Babylon 5",
+      "poster_path": "/td8O6KJQpN9ZRiuyFUILziXFMrk.jpg",
+      "progress": {
+        "watched": 1955.782721668966,
+        "duration": 3600
+      },
+      "last_season_watched": "5",
+      "last_episode_watched": "19",
+      "last_updated": 1776232704636,
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "1993-02-22",
+          "episode_count": 81,
+          "id": 9911,
+          "name": "Specials",
+          "overview": "Special installments of the series.",
+          "poster_path": "/jhQLg0G7QQDoiHLshMHUxiEPHBH.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1994-01-26",
+          "episode_count": 22,
+          "id": 9907,
+          "name": "Signs and Portents",
+          "overview": "Season one is set in the year 2258 aboard a five-mile-long, totally self-sufficient United Nations-like space station. Babylon 5 is where humans and aliens try to work out their differences peacefully, in neutral territory full of mystery, suspense, and adventure. The space outpost is a hotbed of interplanetary intrigue, conspiracies, and betrayals among myriad life-forms living and working together.",
+          "poster_path": "/rYudAl564nVya0QXEJ6ZK6SxnQo.jpg",
+          "season_number": 1,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "1994-11-02",
+          "episode_count": 22,
+          "id": 9908,
+          "name": "The Coming of Shadows",
+          "overview": "In season two, Babylon 5 gets a controversial new leader as the station prepares to serve as the last defense against a terrifying race known as the Shadows.",
+          "poster_path": "/q3z1xE1JHn7ZtNPCkcdjNQM06zW.jpg",
+          "season_number": 2,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "1995-11-06",
+          "episode_count": 22,
+          "id": 9912,
+          "name": "Point of No Return",
+          "overview": "It is now the year 2259. Five hostile federations dominate the outermost regions of space. This season, Babylon 5's captain declares the station an independent state and forms a war council to battle the evil Shadows – and their allies on Earth.",
+          "poster_path": "/11gZODmqKYYyAMtcloVxro0Oe7U.jpg",
+          "season_number": 3,
+          "vote_average": 7.6
+        },
+        {
+          "air_date": "1996-11-04",
+          "episode_count": 22,
+          "id": 9909,
+          "name": "No Surrender, No Retreat",
+          "overview": "In season four, the station continues to serve as a refuge for heroes, thieves, and rare and exotic beings in a time of uneasy peace and the constant threat of war. The space station and its allies finally engage the powerful Shadows in a tremendous showdown, while the station's captain strives to expose far-reaching corruption on Earth. Also, Sheridan and Delenn's alliance – both personal and political – signals a new age of peace in the universe.",
+          "poster_path": "/nmqyvj2ca9dJEmbbALdEYqfbbR7.jpg",
+          "season_number": 4,
+          "vote_average": 7.7
+        },
+        {
+          "air_date": "1998-01-21",
+          "episode_count": 22,
+          "id": 9910,
+          "name": "Wheel of Fire",
+          "overview": "In 2262, longstanding conflicts between telepaths and normal humans lead to a major clash on the space station. A new captain takes over, and Sheridan continues Babylon 5's peacekeeping mission by forming the InterStellar Alliance.",
+          "poster_path": "/wzY3m4mqW0yg4LydQuzGtCFPcbt.jpg",
+          "season_number": 5,
+          "vote_average": 7.3
+        }
+      ]
+    },
+    "tmdb-71124": {
+      "id": "71124",
+      "type": "tv",
+      "title": "Cooper's Treasure",
+      "poster_path": "/12ae8KreaZDuBGX5YPhG7Xh5sg6.jpg",
+      "progress": {
+        "watched": 3257.315288996632,
+        "duration": 3600
+      },
+      "last_season_watched": "2",
+      "last_episode_watched": "8",
+      "last_updated": 1772763628262,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2017-05-23",
+          "episode_count": 2,
+          "id": 344563,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2017-04-18",
+          "episode_count": 6,
+          "id": 87157,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/hmSpeuG8WGAxT0NeisoCXqCL1tT.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2018-06-22",
+          "episode_count": 8,
+          "id": 105471,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/9DbV68x0CaG1WphED8tji9IRkMV.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-60603": {
+      "id": "60603",
+      "title": "The Curse of Oak Island",
+      "type": "tv",
+      "last_season_watched": "13",
+      "last_episode_watched": "21",
+      "last_updated": 1775957472313,
+      "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+      "progress": {
+        "watched": 820.8760534898274,
+        "duration": 3600
+      },
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "2015-11-10",
+          "episode_count": 47,
+          "id": 82094,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2014-01-05",
+          "episode_count": 5,
+          "id": 59978,
+          "name": "Season 1",
+          "overview": "In 1795, three teenage boys discovered a strange, man-made depression in the ground on Oak Island–a small, wooded island just off the coast of Nova Scotia, Canada. As the boys began to dig, they found a number of intriguing artifacts. It was the end of the piracy era and rumors of buried treasure were rampant. The boys’ discovery launched a treasure hunt that has spanned more than 200 years.The search had gone dormant, but last year, Rick and Marty Lagina, two brothers from Michigan with a life-long interest in the mystery, renewed the efforts to discover the legendary treasure.",
+          "poster_path": "/8i5JvPZWkqOvpWG4BIfXdt4hY2k.jpg",
+          "season_number": 1,
+          "vote_average": 5.6
+        },
+        {
+          "air_date": "2014-11-04",
+          "episode_count": 10,
+          "id": 63381,
+          "name": "Season 2",
+          "overview": "After dating the Spanish coin they found last summer to 1652, brothers Rick and Marty Lagina return to Oak Island and the strange triangle-shaped swamp to look for more clues to this 200-year-old mystery.",
+          "poster_path": "/loTRt4yNp9JVXc7lwvtIBpyJilW.jpg",
+          "season_number": 2,
+          "vote_average": 4
+        },
+        {
+          "air_date": "2015-11-10",
+          "episode_count": 13,
+          "id": 71915,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/gmCBiA8x8S5PY2hMKnpq2xflCn5.jpg",
+          "season_number": 3,
+          "vote_average": 3.9
+        },
+        {
+          "air_date": "2016-11-15",
+          "episode_count": 16,
+          "id": 82053,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/y7x5OmZunb57kynTB4nDPFMDx6E.jpg",
+          "season_number": 4,
+          "vote_average": 4.5
+        },
+        {
+          "air_date": "2017-11-06",
+          "episode_count": 18,
+          "id": 94972,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": "/5j6BVmHbW3qZRc2YHO2VJJsatGw.jpg",
+          "season_number": 5,
+          "vote_average": 10
+        },
+        {
+          "air_date": "2018-11-12",
+          "episode_count": 22,
+          "id": 112576,
+          "name": "Season 6",
+          "overview": "",
+          "poster_path": "/o3HXPVdkDxnWHzYjb9eTaBKznVo.jpg",
+          "season_number": 6,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2019-11-04",
+          "episode_count": 23,
+          "id": 133844,
+          "name": "Season 7",
+          "overview": "",
+          "poster_path": "/5N71fLFWRsC186nMr02j0MQwMOE.jpg",
+          "season_number": 7,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2020-11-10",
+          "episode_count": 25,
+          "id": 166451,
+          "name": "Season 8",
+          "overview": "",
+          "poster_path": "/AvaGrTElZI6uGZZHrUYYlkB7ltl.jpg",
+          "season_number": 8,
+          "vote_average": 8.3
+        },
+        {
+          "air_date": "2021-11-02",
+          "episode_count": 25,
+          "id": 214695,
+          "name": "Season 9",
+          "overview": "",
+          "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+          "season_number": 9,
+          "vote_average": 9
+        },
+        {
+          "air_date": "2022-11-15",
+          "episode_count": 25,
+          "id": 311986,
+          "name": "Season 10",
+          "overview": "Monumental tenth season. Connecting the dots one dig at a time.",
+          "poster_path": "/ioxqD0epe046x4WfOJ37KyhKxJ3.jpg",
+          "season_number": 10,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2023-11-07",
+          "episode_count": 25,
+          "id": 345856,
+          "name": "Season 11",
+          "overview": "",
+          "poster_path": "/5ErS3M9I9mlNabWnXOyrR0HmRQB.jpg",
+          "season_number": 11,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2024-11-12",
+          "episode_count": 25,
+          "id": 389039,
+          "name": "Season 12",
+          "overview": "",
+          "poster_path": "/bqiQdnwL9iBh7A4TM0EW24Ps8I3.jpg",
+          "season_number": 12,
+          "vote_average": 6.7
+        },
+        {
+          "air_date": "2025-11-04",
+          "episode_count": 24,
+          "id": 426093,
+          "name": "Season 13",
+          "overview": "",
+          "poster_path": "/aim5LNxkhkrBuv3Gya1fgRjXC8z.jpg",
+          "season_number": 13,
+          "vote_average": 6.7
+        },
+        {
+          "air_date": "2026-11-03",
+          "episode_count": 1,
+          "id": 441789,
+          "name": "Season 14",
+          "overview": "Final season",
+          "poster_path": "/7kO1xSLTg7qYR225EZ7erJmauCV.jpg",
+          "season_number": 14,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-223530": {
+      "id": "223530",
+      "type": "tv",
+      "title": "Star Trek: Starfleet Academy",
+      "poster_path": "/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+      "progress": {
+        "watched": 3434.4440534266296,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "9",
+      "last_updated": 1772847516489,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2026-01-15",
+          "episode_count": 10,
+          "id": 334969,
+          "name": "Season 1",
+          "overview": "A young group of Starfleet cadets navigating friendships and rivalries, as well as first loves and a new enemy that poses a threat not to just the Academy, but to the Federation. And, in between all that drama, they strive to meet the standards of their exacting instructors.",
+          "poster_path": "/eOxwyGkGKq4WZCgdVlU1pr2XcCG.jpg",
+          "season_number": 1,
+          "vote_average": 5.1
+        }
+      ]
+    },
+    "tmdb-196310": {
+      "id": "196310",
+      "title": "Lost Gold of the Aztecs",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "8",
+      "last_updated": 1773286085230,
+      "poster_path": "/rQlIu3Jdyyt1Kk0CDJ6UHx3TPFq.jpg",
+      "progress": {
+        "watched": 237.52865775415967,
+        "duration": 3600
+      },
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "2022-03-29",
+          "episode_count": 8,
+          "id": 285425,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/rQlIu3Jdyyt1Kk0CDJ6UHx3TPFq.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-106393": {
+      "id": "106393",
+      "type": "tv",
+      "title": "Star Trek: Prodigy",
+      "poster_path": "/eUFD446HtoayV4FsXGmECXZdm7x.jpg",
+      "progress": {
+        "watched": 1430.7120448516444,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1773444389931,
+      "rating": "TV-Y7",
+      "seasons": [
+        {
+          "air_date": "2023-01-03",
+          "episode_count": 11,
+          "id": 326694,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/ubiHq1SGVjlyQIxaavW6MP03fuC.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2021-10-28",
+          "episode_count": 19,
+          "id": 157144,
+          "name": "Season 1",
+          "overview": "After discovering an abandoned Starfleet ship, a ragtag crew of young adventurers unites to explore the galaxy and evade a ruthless overlord.",
+          "poster_path": "/qiIHiqCwVu5SGa7Fkg0AVZkRGSR.jpg",
+          "season_number": 1,
+          "vote_average": 7.6
+        },
+        {
+          "air_date": "2024-07-01",
+          "episode_count": 20,
+          "id": 385286,
+          "name": "Season 2",
+          "overview": "Now Starfleet trainees, Dal and his friends embark on another adventure to solve the mystery of the Protostar and save a planet from destruction.",
+          "poster_path": "/hUzSjQYNZ1T0yiKDTzvxsTJR4of.jpg",
+          "season_number": 2,
+          "vote_average": 7.5
+        }
+      ]
+    },
+    "tmdb-74313": {
+      "id": "74313",
+      "title": "Blue Planet II",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "2",
+      "last_updated": 1773470443911,
+      "poster_path": "/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg",
+      "progress": {
+        "watched": 830.2611069901135,
+        "duration": 3600
+      },
+      "rating": "TV-G",
+      "seasons": [
+        {
+          "air_date": "2017-09-27",
+          "episode_count": 2,
+          "id": 93610,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/ePFHpRDILmD4KrGDbdoNwsAGVi7.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2017-10-29",
+          "episode_count": 7,
+          "id": 93606,
+          "name": "Season 1",
+          "overview": "A follow-up to the 2001 award-winning show \"The Blue Planet,\" this natural history series sees Sir David Attenborough return as narrator and host. A breathtaking exploration of the world's vast oceans, hourlong episodes capture animals and other living organisms in their natural habitat, presenting viewers with a fascinating insight into what life is like underwater. From tropical seas to the harsh conditions of the Arctic, the makers of \"Blue Planet II\" use modern filming equipment and techniques to shine a light on areas of the planet that humans have never seen before.",
+          "poster_path": "/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg",
+          "season_number": 1,
+          "vote_average": 8.2
+        }
+      ]
+    },
+    "tmdb-202411": {
+      "id": "202411",
+      "type": "tv",
+      "title": "Monarch: Legacy of Monsters",
+      "poster_path": "/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+      "progress": {
+        "watched": 535.3384124121179,
+        "duration": 3600
+      },
+      "last_season_watched": "2",
+      "last_episode_watched": "8",
+      "last_updated": 1775961316843,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2023-11-15",
+          "episode_count": 10,
+          "id": 294443,
+          "name": "Season 1",
+          "overview": "In season one, two siblings look to uncover their family's connection to the secretive organization known as Monarch. Clues lead them into the world of monsters and ultimately down the rabbit hole to Army officer Lee Shaw, taking place in the 1950s and half a century later where Monarch is threatened by what Shaw knows.",
+          "poster_path": "/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
+          "season_number": 1,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "2026-02-26",
+          "episode_count": 10,
+          "id": 484723,
+          "name": "Season 2",
+          "overview": "Season two picks up with the fate of Monarch — and the world — hanging in the balance. Buried secrets are revealed that reunite our heroes (and villains) on Kong's Skull Island, and a new, mysterious village where a mythical Titan rises from the sea. The ripple effects of the past make waves in the present day, blurring the bonds between family, friend and foe — all with the threat of a Titan event on the horizon.",
+          "poster_path": "/garCCMokkC9TbzmOGPvFTqpRD2C.jpg",
+          "season_number": 2,
+          "vote_average": 7.4
+        }
+      ]
+    },
+    "tmdb-10153": {
+      "id": "10153",
+      "title": "Sphere",
+      "type": "movie",
+      "last_updated": 1774883266212,
+      "poster_path": "/reR7C7EYe3DiHm5OYpA0ACUMDld.jpg",
+      "progress": {
+        "watched": 3270.695698337459,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "rating": "PG-13"
+    },
+    "tmdb-62705": {
+      "id": "62705",
+      "type": "tv",
+      "title": "Married at First Sight",
+      "poster_path": "/2F0ADv2beVB4tRG0qx7YlWMvnDN.jpg",
+      "progress": {
+        "watched": 2056.523267117963,
+        "duration": 3600
+      },
+      "last_season_watched": "13",
+      "last_episode_watched": "39",
+      "last_updated": 1776147721582,
+      "rating": "M",
+      "seasons": [
+        {
+          "air_date": "2021-01-31",
+          "episode_count": 3,
+          "id": 179237,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/cpOgDfXKfiOmMMwmz81u50hXiNl.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2015-05-18",
+          "episode_count": 6,
+          "id": 66834,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/yNKeON99Rw1YsOlcHgO1uB7oKes.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2016-04-04",
+          "episode_count": 8,
+          "id": 150142,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/7xOwtDsdY371A0lZ5zqfz32jRQW.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2016-08-29",
+          "episode_count": 8,
+          "id": 150143,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/wqaH9I6NSEO1xc9NHMWcZcKcmXk.jpg",
+          "season_number": 3,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2017-01-30",
+          "episode_count": 29,
+          "id": 85584,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/tQUhvAXFt0i4nODBVezPgw2U3C.jpg",
+          "season_number": 4,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2018-01-29",
+          "episode_count": 32,
+          "id": 98597,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": "/pKUeu4F0K7Sp9j5ngJ6fIzRxHfn.jpg",
+          "season_number": 5,
+          "vote_average": 6
+        },
+        {
+          "air_date": "2019-01-28",
+          "episode_count": 41,
+          "id": 117724,
+          "name": "Season 6",
+          "overview": "",
+          "poster_path": "/igFUMPtQ3qJ10VJgyJPasQO12az.jpg",
+          "season_number": 6,
+          "vote_average": 1
+        },
+        {
+          "air_date": "2020-02-03",
+          "episode_count": 36,
+          "id": 142622,
+          "name": "Season 7",
+          "overview": "",
+          "poster_path": "/cSJrAFkxM97tXrUUmon4YASJAXQ.jpg",
+          "season_number": 7,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2021-02-22",
+          "episode_count": 32,
+          "id": 179241,
+          "name": "Season 8",
+          "overview": "",
+          "poster_path": "/cmzrKoJ4ff7dYEvnpqA7LjdNGMP.jpg",
+          "season_number": 8,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2022-01-31",
+          "episode_count": 37,
+          "id": 242183,
+          "name": "Season 9",
+          "overview": "",
+          "poster_path": "/yGqp1MUcRszz94cdMmigX4bCqKn.jpg",
+          "season_number": 9,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2023-01-30",
+          "episode_count": 36,
+          "id": 323292,
+          "name": "Season 10",
+          "overview": "",
+          "poster_path": "/hcCRVaarYCEy8YiaLfSkUqPbftu.jpg",
+          "season_number": 10,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2024-01-29",
+          "episode_count": 38,
+          "id": 367802,
+          "name": "Season 11",
+          "overview": "",
+          "poster_path": "/2F0ADv2beVB4tRG0qx7YlWMvnDN.jpg",
+          "season_number": 11,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2025-01-27",
+          "episode_count": 40,
+          "id": 439966,
+          "name": "Season 12",
+          "overview": "",
+          "poster_path": "/gQxYaPKYXmERqxZZ3qwHc4Z08CX.jpg",
+          "season_number": 12,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2026-02-02",
+          "episode_count": 39,
+          "id": 498336,
+          "name": "Season 13",
+          "overview": "",
+          "poster_path": "/2DTDjX4N465c8orotCADVwyRaHd.jpg",
+          "season_number": 13,
+          "vote_average": 9.2
+        }
+      ]
+    }
+  }
+}
