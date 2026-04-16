@@ -1,40 +1,979 @@
 {
   "version": 1,
-  "updated_at": 1776366554449,
+  "updated_at": 1776372599029,
   "history": {
-    "tmdb-220150": {
-      "id": "220150",
-      "title": "Pokémon Horizons",
+    "tmdb-12971": {
+      "id": "12971",
       "type": "anime",
-      "last_season_watched": "1",
-      "last_episode_watched": "1",
-      "last_updated": 1766601268215,
-      "poster_path": "/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+      "title": "Dragon Ball Z",
+      "poster_path": "/i1lMlxir5E4jyeLlqS2bK1Cn3Tt.jpg",
       "progress": {
-        "watched": 1363.9816413246679,
+        "watched": 3587.004175052402,
         "duration": 3600
       },
-      "rating": "TV-Y7",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1764390952005,
+      "rating": "TV-14",
       "seasons": [
         {
-          "air_date": "2024-01-05",
-          "episode_count": 1,
-          "id": 371525,
+          "air_date": "1990-10-17",
+          "episode_count": 10,
+          "id": 65352,
           "name": "Specials",
           "overview": "",
-          "poster_path": null,
+          "poster_path": "/ySWtoMXIbc2LJaHKf1vDgDEgFOE.jpg",
           "season_number": 0,
           "vote_average": 0
         },
         {
-          "air_date": "2023-04-14",
-          "episode_count": 125,
-          "id": 328311,
-          "name": "Series 1",
-          "overview": "A new adventure is beginning within the wide world of Pokémon! Arriving at Indigo Academy, a little girl named Liko receives her first partner Pokémon, Sprigatito. But she soon finds herself pursued by the Explorers, a mysterious group that's determined to take the pendant necklace she wears. Liko isn't on her own, though, as Friede, Captain Pikachu, and the other Rising Volt Tacklers offer her protection aboard their airship. Meanwhile, a young boy named Roy dreams of becoming a Pokémon Trainer, unaware of the secret hiding within the Ancient Poké Ball he carries. As Liko, Roy, and the Rising Volt Tacklers set sail for new horizons, what kind of discoveries await?",
-          "poster_path": "/1tfB5JQ0Zij0QbJMkO8yWjo5sZO.jpg",
+          "air_date": "1989-04-26",
+          "episode_count": 39,
+          "id": 59759,
+          "name": "Saiyan Saga",
+          "overview": "After years of peace since the defeat of Piccolo Daimaoh, Goku now lives peacefully with his wife, Chi-Chi, and their son, Gohan. But everything changes when a mysterious warrior called Raditz arrives on Earth, revealing that he is Goku's brother and that they both belong to the warrior race of the Saiyans, a brutal people who conquer planets.",
+          "poster_path": "/6iyu8rF9lRGWmDC8UnNlvNlJjRB.jpg",
           "season_number": 1,
-          "vote_average": 9.6
+          "vote_average": 8
+        },
+        {
+          "air_date": "1990-03-14",
+          "episode_count": 35,
+          "id": 59760,
+          "name": "Namek Saga",
+          "overview": "While Goku recovers from injuries suffered during battle with the Saiyans, his friends begin their perilous quest for the Namekian Dragon Balls. Awaiting their arrival on Planet Namek is the powerful Ginyu Force – and the vile monster Frieza!",
+          "poster_path": "/nFI492Jd9cMvG5Y0wfAHbe0lpXk.jpg",
+          "season_number": 2,
+          "vote_average": 8.1
+        },
+        {
+          "air_date": "1991-01-30",
+          "episode_count": 33,
+          "id": 59761,
+          "name": "Frieza Saga",
+          "overview": "All seven Namekian Dragon Balls have been assembled, and the dragon Porunga has been summoned. Goku and his loyal friends must stop Frieza from making his wish for immortality. To defeat this monstrous foe – a Super Saiyan must emerge!",
+          "poster_path": "/qrpK9feifrOiUP0H0XJvXmW1fJq.jpg",
+          "season_number": 3,
+          "vote_average": 8.2
+        },
+        {
+          "air_date": "1991-09-18",
+          "episode_count": 32,
+          "id": 59762,
+          "name": "Androids Saga",
+          "overview": "After peace returns to Earth with the defeat of Freeza, a new danger approaches. A mysterious young man called Trunks appears from the future and warns Goku and the Z Warriors about the imminent arrival of two powerful androids created by the scientist Dr. Gero, a former member of the Red Ribbon Force who seeks revenge against Goku. The androids called 17 and 18 wiped out almost all of humanity in Trunks' future.",
+          "poster_path": "/iKZYlpbWwitJjza06MvaEEO56sr.jpg",
+          "season_number": 4,
+          "vote_average": 8.3
+        },
+        {
+          "air_date": "1992-05-20",
+          "episode_count": 26,
+          "id": 59763,
+          "name": "Cell Saga",
+          "overview": "As the battle with the Androids rages on, a fierce evil rises from the shadows: the monster known as Cell. Dr. Gero’s heinous creation is the ultimate weapon, a fighting machine built from the genetic material of the greatest warriors ever to walk the Earth!",
+          "poster_path": "/mA0rQcnMq5HIUeK4haUDJvmDuS2.jpg",
+          "season_number": 5,
+          "vote_average": 8.2
+        },
+        {
+          "air_date": "1992-11-25",
+          "episode_count": 29,
+          "id": 59764,
+          "name": "Cell Games Saga",
+          "overview": "Humanity nears extinction as Cell achieves his deadly perfect form! Eager to display his new power, the monster proposes a tournament. If Earth produces a worthy challenger, whether be it Goku or Mr. Satan, mankind will be spared. But if not – death comes to all!",
+          "poster_path": "/st7kFY0s6C5fYsBft5j5XdavKBf.jpg",
+          "season_number": 6,
+          "vote_average": 8.1
+        },
+        {
+          "air_date": "1993-07-28",
+          "episode_count": 25,
+          "id": 59765,
+          "name": "World Tournament Saga",
+          "overview": "In the seven years since Cell’s defeat, life on Earth has returned to normal. But now, the time has come for a new World Martial Arts Tournament. Goku returns from Other World to challenge Mr. Satan for his title – and to guard against the arrival of a new evil!",
+          "poster_path": "/fAEngvnTWOEVMCG13Xbm4hYoW9v.jpg",
+          "season_number": 7,
+          "vote_average": 8.2
+        },
+        {
+          "air_date": "1994-03-09",
+          "episode_count": 34,
+          "id": 59766,
+          "name": "Majin Buu Saga",
+          "overview": "The evil wizard Babidi embarks on a quest for vengeance, seeking to fulfill his father's thwarted dreams of universal domination. Supreme Kai enlists Goku and the Z-Fighters to stop Babidi and his vile minions, but a deadly new threat emerges – Majin Vegeta!",
+          "poster_path": "/nIq2MgdFh7hsUU314ctCBFZqsY0.jpg",
+          "season_number": 8,
+          "vote_average": 8
+        },
+        {
+          "air_date": "1995-02-01",
+          "episode_count": 38,
+          "id": 59767,
+          "name": "Kid Buu Saga",
+          "overview": "Majin Buu's rampage continues, and the only hope of defeating this terrifying foe is the Fusion Technique. For this desperate plan to succeed, two fierce rivals, Goku and Vegeta, must combine their powers in a heroic attempt to stop Majin Buu once and for all!",
+          "poster_path": "/9L8rKgp1IoTf32eSuI2BBmm6sUE.jpg",
+          "season_number": 9,
+          "vote_average": 7.9
+        }
+      ]
+    },
+    "tmdb-213402": {
+      "id": "213402",
+      "type": "anime",
+      "title": "Campfire Cooking in Another World with My Absurd Skill",
+      "poster_path": "/cXc3yiQ5RrimzfucovjO83RTrnq.jpg",
+      "progress": {
+        "watched": 15,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "13",
+      "last_updated": 1771363575606,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2023-01-11",
+          "episode_count": 24,
+          "id": 314483,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/3k94oxp4zio6o3JquKbrmXhSAu6.jpg",
+          "season_number": 1,
+          "vote_average": 7.3
+        }
+      ],
+      "episodeWatchHistory": {
+        "S1E2": 1765127297586
+      },
+      "release_date": "2023-01-11"
+    },
+    "tmdb-131378": {
+      "id": "131378",
+      "type": "tv",
+      "title": "Adventure Time: Fionna & Cake",
+      "poster_path": "/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+      "progress": {
+        "watched": 9.914147364295367,
+        "duration": 3600
+      },
+      "last_season_watched": "2",
+      "last_episode_watched": "10",
+      "last_updated": 1766867981512,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2023-08-31",
+          "episode_count": 10,
+          "id": 206322,
+          "name": "Season 1",
+          "overview": "Alongside former Ice King Simon Petrikov, Fionna and Cake embark on a multiverse-hopping journey of self-discovery while avoiding a powerful new foe.",
+          "poster_path": "/tTWpkcG6HdpyMh4qafO7FcE7SyI.jpg",
+          "season_number": 1,
+          "vote_average": 8.6
+        },
+        {
+          "air_date": "2025-10-23",
+          "episode_count": 10,
+          "id": 477880,
+          "name": "Season 2",
+          "overview": "After their journey through the multiverse, Fionna and Cake tackle new adventures while Huntress Wizard embarks on a desperate quest with fatal consequences.",
+          "poster_path": "/cxDDX4REpgBI9K7iFQAnW2lQzVF.jpg",
+          "season_number": 2,
+          "vote_average": 9.3
+        }
+      ],
+      "release_date": "2023-08-31",
+      "episodeWatchHistory": {
+        "S2E6": 1765173893092,
+        "S2E7": 1765165409949
+      }
+    },
+    "tmdb-76300": {
+      "id": "76300",
+      "type": "tv",
+      "title": "Love After Lockup",
+      "poster_path": "/e3OgnW4ov16XueR5FxVzaFy7d4U.jpg",
+      "progress": {
+        "watched": 15,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "3",
+      "last_updated": 1765146308123,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2018-01-11",
+          "episode_count": 7,
+          "id": 97783,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/u778szBb81s7RE6ZqGsbdhaIqjF.jpg",
+          "season_number": 1,
+          "vote_average": 1
+        },
+        {
+          "air_date": "2018-12-07",
+          "episode_count": 51,
+          "id": 114117,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/zcOrkKoe1OAKcerFSA1gSSulHHM.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2020-07-17",
+          "episode_count": 71,
+          "id": 156049,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/e3OgnW4ov16XueR5FxVzaFy7d4U.jpg",
+          "season_number": 3,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2022-03-04",
+          "episode_count": 58,
+          "id": 243598,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/uhDQHN9qfNh4q5YJ7aNtS3MitWX.jpg",
+          "season_number": 4,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2023-09-15",
+          "episode_count": 64,
+          "id": 350585,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": "/6jGoTTjapHGXS6kr5AyjaQEaxx3.jpg",
+          "season_number": 5,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2025-03-21",
+          "episode_count": 21,
+          "id": 444107,
+          "name": "Season 6",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 6,
+          "vote_average": 0
+        }
+      ],
+      "episodeWatchHistory": {
+        "S1E1": 1765146276856,
+        "S1E2": 1765146287403,
+        "S1E3": 1765146291395,
+        "S1E4": 1765146299009
+      },
+      "release_date": "2018-01-11"
+    },
+    "tmdb-68810": {
+      "id": "68810",
+      "type": "movie",
+      "title": "Dragon Ball The Magic Begins",
+      "poster_path": "/2OfxuVeFsClcEMt71MDw8BhbaZh.jpg",
+      "progress": {
+        "watched": 45,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1765173059957,
+      "rating": "12"
+    },
+    "tmdb-212633": {
+      "id": "212633",
+      "type": "tv",
+      "title": "Deadman's Curse",
+      "poster_path": "/jVbHKOck9tcc7PM4aEDUbN7qViN.jpg",
+      "progress": {
+        "watched": 3438.4393133309527,
+        "duration": 3600
+      },
+      "last_season_watched": "3",
+      "last_episode_watched": "8",
+      "last_updated": 1772163562231,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2022-09-11",
+          "episode_count": 8,
+          "id": 313103,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/wBNTebQCE1tHFktwbO6b2f8nPht.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2024-05-28",
+          "episode_count": 8,
+          "id": 346124,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 2,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2025-07-16",
+          "episode_count": 8,
+          "id": 360279,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 3,
+          "vote_average": 0
+        }
+      ],
+      "release_date": "2022-09-11",
+      "episodeWatchHistory": {
+        "S3E2": 1765177125546,
+        "S3E4": 1765201291459,
+        "S3E5": 1765201325370,
+        "S3E6": 1765201327658,
+        "S3E7": 1765203185505,
+        "S3E8": 1765328341305
+      }
+    },
+    "tmdb-1966": {
+      "id": "1966",
+      "type": "tv",
+      "title": "Horizon",
+      "poster_path": "/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+      "progress": {
+        "watched": 2645.449951534068,
+        "duration": 3600
+      },
+      "last_season_watched": "37",
+      "last_episode_watched": "12",
+      "last_updated": 1766856236550,
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "1966-12-25",
+          "episode_count": 111,
+          "id": 5784,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/b8NVRNDMuI8Pgs8TnkDtxv2yDoH.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1964-02-04",
+          "episode_count": 9,
+          "id": 5785,
+          "name": "1964",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1965-01-06",
+          "episode_count": 24,
+          "id": 5786,
+          "name": "1965",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 2,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1966-01-02",
+          "episode_count": 23,
+          "id": 5787,
+          "name": "1966",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 3,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1967-01-17",
+          "episode_count": 23,
+          "id": 5788,
+          "name": "1967",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 4,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1968-01-02",
+          "episode_count": 24,
+          "id": 5789,
+          "name": "1968",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 5,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1969-01-02",
+          "episode_count": 37,
+          "id": 5790,
+          "name": "1969",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 6,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1970-01-05",
+          "episode_count": 37,
+          "id": 5791,
+          "name": "1970",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 7,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1971-01-04",
+          "episode_count": 32,
+          "id": 5792,
+          "name": "1971",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 8,
+          "vote_average": 8
+        },
+        {
+          "air_date": "1972-01-03",
+          "episode_count": 33,
+          "id": 5793,
+          "name": "1972",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 9,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1973-01-04",
+          "episode_count": 32,
+          "id": 5794,
+          "name": "1973",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 10,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1974-01-07",
+          "episode_count": 33,
+          "id": 5795,
+          "name": "1974",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 11,
+          "vote_average": 8
+        },
+        {
+          "air_date": "1975-01-20",
+          "episode_count": 26,
+          "id": 5796,
+          "name": "1975",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 12,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1976-01-05",
+          "episode_count": 30,
+          "id": 5797,
+          "name": "1976",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 13,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1977-01-07",
+          "episode_count": 23,
+          "id": 5798,
+          "name": "1977",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 14,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1978-01-06",
+          "episode_count": 24,
+          "id": 5782,
+          "name": "1978",
+          "overview": "",
+          "poster_path": "/tLsowNcSKCSsjiurd8NGAVIvrRM.jpg",
+          "season_number": 15,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1979-02-26",
+          "episode_count": 25,
+          "id": 5799,
+          "name": "1979",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 16,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1980-01-14",
+          "episode_count": 25,
+          "id": 5800,
+          "name": "1980",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 17,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1981-01-05",
+          "episode_count": 27,
+          "id": 5801,
+          "name": "1981",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 18,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1982-01-11",
+          "episode_count": 22,
+          "id": 5802,
+          "name": "1982",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 19,
+          "vote_average": 8
+        },
+        {
+          "air_date": "1983-01-10",
+          "episode_count": 24,
+          "id": 5803,
+          "name": "1983",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 20,
+          "vote_average": 1
+        },
+        {
+          "air_date": "1984-01-09",
+          "episode_count": 22,
+          "id": 5804,
+          "name": "1984",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 21,
+          "vote_average": 7
+        },
+        {
+          "air_date": "1985-01-07",
+          "episode_count": 16,
+          "id": 5805,
+          "name": "1985",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 22,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1986-01-06",
+          "episode_count": 22,
+          "id": 5806,
+          "name": "1986",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 23,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1987-01-05",
+          "episode_count": 22,
+          "id": 5807,
+          "name": "1987",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 24,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1988-01-04",
+          "episode_count": 25,
+          "id": 5808,
+          "name": "1988",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 25,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1989-01-09",
+          "episode_count": 20,
+          "id": 5809,
+          "name": "1989",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 26,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1990-01-08",
+          "episode_count": 20,
+          "id": 5810,
+          "name": "1990",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 27,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1991-01-07",
+          "episode_count": 23,
+          "id": 5811,
+          "name": "1991",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 28,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1992-01-06",
+          "episode_count": 19,
+          "id": 5812,
+          "name": "1992",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 29,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1993-01-04",
+          "episode_count": 21,
+          "id": 5813,
+          "name": "1993",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 30,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1994-01-10",
+          "episode_count": 21,
+          "id": 5814,
+          "name": "1994",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 31,
+          "vote_average": 3
+        },
+        {
+          "air_date": "1995-01-09",
+          "episode_count": 20,
+          "id": 5815,
+          "name": "1995",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 32,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1996-01-08",
+          "episode_count": 16,
+          "id": 5816,
+          "name": "1996",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 33,
+          "vote_average": 7
+        },
+        {
+          "air_date": "1997-02-27",
+          "episode_count": 15,
+          "id": 5817,
+          "name": "1997",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 34,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1998-02-19",
+          "episode_count": 18,
+          "id": 5818,
+          "name": "1998",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 35,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1999-01-28",
+          "episode_count": 14,
+          "id": 5819,
+          "name": "1999",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 36,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2000-01-12",
+          "episode_count": 19,
+          "id": 5820,
+          "name": "2000",
+          "overview": "",
+          "poster_path": "/j6Kb9C3V65sfQPuOr5CqGOrbX1N.jpg",
+          "season_number": 37,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2001-01-25",
+          "episode_count": 11,
+          "id": 5821,
+          "name": "2001",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 38,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2002-01-10",
+          "episode_count": 18,
+          "id": 100798,
+          "name": "2002",
+          "overview": "",
+          "poster_path": "/z9nhDPlyP8bu8ZjjIViWRhVZ9tv.jpg",
+          "season_number": 39,
+          "vote_average": 5
+        },
+        {
+          "air_date": "2003-01-09",
+          "episode_count": 19,
+          "id": 5823,
+          "name": "2003",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 40,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2004-01-08",
+          "episode_count": 18,
+          "id": 5824,
+          "name": "2004",
+          "overview": "",
+          "poster_path": "/wt841tH3s4egUhKDinv1kXeCiM2.jpg",
+          "season_number": 41,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2005-01-13",
+          "episode_count": 20,
+          "id": 100797,
+          "name": "2005",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 42,
+          "vote_average": 9
+        },
+        {
+          "air_date": "2006-01-12",
+          "episode_count": 19,
+          "id": 5777,
+          "name": "2006",
+          "overview": "",
+          "poster_path": "/xiadF5d2xb9XhxrXJbD044U8U4x.jpg",
+          "season_number": 43,
+          "vote_average": 5
+        },
+        {
+          "air_date": "2007-03-13",
+          "episode_count": 9,
+          "id": 5776,
+          "name": "2007",
+          "overview": "",
+          "poster_path": "/j7Ro1SiwJwpioYiqL23r7sQyGXL.jpg",
+          "season_number": 44,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2008-01-15",
+          "episode_count": 17,
+          "id": 5778,
+          "name": "2008",
+          "overview": "",
+          "poster_path": "/mfc73SElai9p8KlV3os4sKTwLYk.jpg",
+          "season_number": 45,
+          "vote_average": 9
+        },
+        {
+          "air_date": "2009-01-26",
+          "episode_count": 18,
+          "id": 5783,
+          "name": "2009",
+          "overview": "",
+          "poster_path": "/srugMkKPfM2VdcqTngnliosewbj.jpg",
+          "season_number": 46,
+          "vote_average": 2
+        },
+        {
+          "air_date": "2009-10-13",
+          "episode_count": 14,
+          "id": 5826,
+          "name": "2009-2010",
+          "overview": "",
+          "poster_path": "/VtO3u7pUkZGlStXJW9LcvWx4g7.jpg",
+          "season_number": 47,
+          "vote_average": 7.8
+        },
+        {
+          "air_date": "2010-09-27",
+          "episode_count": 15,
+          "id": 5827,
+          "name": "2010-2011",
+          "overview": "",
+          "poster_path": "/tYfT1adFMIPZyE0aL9caFeuUisP.jpg",
+          "season_number": 48,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2011-08-08",
+          "episode_count": 13,
+          "id": 5828,
+          "name": "2011-2012",
+          "overview": "",
+          "poster_path": "/8kMwh4KLBqS1v0sffj6W6JHhJlE.jpg",
+          "season_number": 49,
+          "vote_average": 10
+        },
+        {
+          "air_date": "2012-07-23",
+          "episode_count": 16,
+          "id": 62331,
+          "name": "2012-2013",
+          "overview": "",
+          "poster_path": "/n7XskH9WzPQirkOXyAyhrML6gma.jpg",
+          "season_number": 50,
+          "vote_average": 7.8
+        },
+        {
+          "air_date": "2013-08-12",
+          "episode_count": 11,
+          "id": 62433,
+          "name": "2013-2014",
+          "overview": "",
+          "poster_path": "/iSwv8tTSCEdT7akdRfJrsOa3jD4.jpg",
+          "season_number": 51,
+          "vote_average": 7.7
+        },
+        {
+          "air_date": "2014-08-18",
+          "episode_count": 18,
+          "id": 75865,
+          "name": "2014-2015",
+          "overview": "",
+          "poster_path": "/nXZb323RFGMBSS59ODEOKJPqa0m.jpg",
+          "season_number": 52,
+          "vote_average": 7.3
+        },
+        {
+          "air_date": "2016-03-16",
+          "episode_count": 16,
+          "id": 75866,
+          "name": "2016",
+          "overview": "",
+          "poster_path": "/wIN7w3nWJO4O7i3gASPFaPFcusG.jpg",
+          "season_number": 53,
+          "vote_average": 7.5
+        },
+        {
+          "air_date": "2017-01-19",
+          "episode_count": 15,
+          "id": 84271,
+          "name": "2017",
+          "overview": "",
+          "poster_path": "/6xn9OQefisQrbjDg50DqER9aqPU.jpg",
+          "season_number": 54,
+          "vote_average": 8.1
+        },
+        {
+          "air_date": "2018-02-05",
+          "episode_count": 13,
+          "id": 100796,
+          "name": "2018",
+          "overview": "",
+          "poster_path": "/boOFTMKqO6T0zDDg4Vg4a0zu3cd.jpg",
+          "season_number": 55,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2019-01-23",
+          "episode_count": 6,
+          "id": 138169,
+          "name": "2019",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 56,
+          "vote_average": 7.5
+        },
+        {
+          "air_date": "2020-01-16",
+          "episode_count": 8,
+          "id": 141097,
+          "name": "2020",
+          "overview": "",
+          "poster_path": "/nj50XqFbgIOOOLGchnLOKlck6aQ.jpg",
+          "season_number": 57,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2021-01-04",
+          "episode_count": 4,
+          "id": 175359,
+          "name": "2021",
+          "overview": "",
+          "poster_path": "/aD9llHm1yBpWkivCvJptJQYnoTJ.jpg",
+          "season_number": 58,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2022-03-31",
+          "episode_count": 4,
+          "id": 286219,
+          "name": "2022",
+          "overview": "",
+          "poster_path": "/8PB1AypQimzVymBDcwyot4F4hWE.jpg",
+          "season_number": 59,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2024-07-22",
+          "episode_count": 1,
+          "id": 403261,
+          "name": "2024",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 60,
+          "vote_average": 9
+        },
+        {
+          "air_date": "2025-08-18",
+          "episode_count": 4,
+          "id": 470694,
+          "name": "2025",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 61,
+          "vote_average": 0
         }
       ]
     },
@@ -162,6 +1101,918 @@
           "season_number": 10,
           "vote_average": 7.2
         }
+      ],
+      "show_progress": {}
+    },
+    "tmdb-60603": {
+      "id": "60603",
+      "title": "The Curse of Oak Island",
+      "type": "tv",
+      "last_season_watched": "13",
+      "last_episode_watched": "21",
+      "last_updated": 1775957472313,
+      "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+      "progress": {
+        "watched": 930.4962566624513,
+        "duration": 3600
+      },
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "2015-11-10",
+          "episode_count": 47,
+          "id": 82094,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2014-01-05",
+          "episode_count": 5,
+          "id": 59978,
+          "name": "Season 1",
+          "overview": "In 1795, three teenage boys discovered a strange, man-made depression in the ground on Oak Island–a small, wooded island just off the coast of Nova Scotia, Canada. As the boys began to dig, they found a number of intriguing artifacts. It was the end of the piracy era and rumors of buried treasure were rampant. The boys’ discovery launched a treasure hunt that has spanned more than 200 years.The search had gone dormant, but last year, Rick and Marty Lagina, two brothers from Michigan with a life-long interest in the mystery, renewed the efforts to discover the legendary treasure.",
+          "poster_path": "/8i5JvPZWkqOvpWG4BIfXdt4hY2k.jpg",
+          "season_number": 1,
+          "vote_average": 5.6
+        },
+        {
+          "air_date": "2014-11-04",
+          "episode_count": 10,
+          "id": 63381,
+          "name": "Season 2",
+          "overview": "After dating the Spanish coin they found last summer to 1652, brothers Rick and Marty Lagina return to Oak Island and the strange triangle-shaped swamp to look for more clues to this 200-year-old mystery.",
+          "poster_path": "/loTRt4yNp9JVXc7lwvtIBpyJilW.jpg",
+          "season_number": 2,
+          "vote_average": 4
+        },
+        {
+          "air_date": "2015-11-10",
+          "episode_count": 13,
+          "id": 71915,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/gmCBiA8x8S5PY2hMKnpq2xflCn5.jpg",
+          "season_number": 3,
+          "vote_average": 3.9
+        },
+        {
+          "air_date": "2016-11-15",
+          "episode_count": 16,
+          "id": 82053,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/y7x5OmZunb57kynTB4nDPFMDx6E.jpg",
+          "season_number": 4,
+          "vote_average": 4.5
+        },
+        {
+          "air_date": "2017-11-06",
+          "episode_count": 18,
+          "id": 94972,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": "/5j6BVmHbW3qZRc2YHO2VJJsatGw.jpg",
+          "season_number": 5,
+          "vote_average": 10
+        },
+        {
+          "air_date": "2018-11-12",
+          "episode_count": 22,
+          "id": 112576,
+          "name": "Season 6",
+          "overview": "",
+          "poster_path": "/o3HXPVdkDxnWHzYjb9eTaBKznVo.jpg",
+          "season_number": 6,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2019-11-04",
+          "episode_count": 23,
+          "id": 133844,
+          "name": "Season 7",
+          "overview": "",
+          "poster_path": "/5N71fLFWRsC186nMr02j0MQwMOE.jpg",
+          "season_number": 7,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2020-11-10",
+          "episode_count": 25,
+          "id": 166451,
+          "name": "Season 8",
+          "overview": "",
+          "poster_path": "/AvaGrTElZI6uGZZHrUYYlkB7ltl.jpg",
+          "season_number": 8,
+          "vote_average": 8.3
+        },
+        {
+          "air_date": "2021-11-02",
+          "episode_count": 25,
+          "id": 214695,
+          "name": "Season 9",
+          "overview": "",
+          "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+          "season_number": 9,
+          "vote_average": 9
+        },
+        {
+          "air_date": "2022-11-15",
+          "episode_count": 25,
+          "id": 311986,
+          "name": "Season 10",
+          "overview": "Monumental tenth season. Connecting the dots one dig at a time.",
+          "poster_path": "/ioxqD0epe046x4WfOJ37KyhKxJ3.jpg",
+          "season_number": 10,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2023-11-07",
+          "episode_count": 25,
+          "id": 345856,
+          "name": "Season 11",
+          "overview": "",
+          "poster_path": "/5ErS3M9I9mlNabWnXOyrR0HmRQB.jpg",
+          "season_number": 11,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2024-11-12",
+          "episode_count": 25,
+          "id": 389039,
+          "name": "Season 12",
+          "overview": "",
+          "poster_path": "/bqiQdnwL9iBh7A4TM0EW24Ps8I3.jpg",
+          "season_number": 12,
+          "vote_average": 6.7
+        },
+        {
+          "air_date": "2025-11-04",
+          "episode_count": 24,
+          "id": 426093,
+          "name": "Season 13",
+          "overview": "",
+          "poster_path": "/aim5LNxkhkrBuv3Gya1fgRjXC8z.jpg",
+          "season_number": 13,
+          "vote_average": 6.7
+        },
+        {
+          "air_date": "2026-11-03",
+          "episode_count": 1,
+          "id": 441789,
+          "name": "Season 14",
+          "overview": "Final season",
+          "poster_path": "/7kO1xSLTg7qYR225EZ7erJmauCV.jpg",
+          "season_number": 14,
+          "vote_average": 0
+        }
+      ],
+      "show_progress": {}
+    },
+    "tmdb-63555": {
+      "id": "63555",
+      "type": "tv",
+      "title": "Treasure Quest: Snake Island",
+      "poster_path": "/viQ7UOa0aZMqxf2vveflkqPJBSM.jpg",
+      "progress": {
+        "watched": 2317.4133167466434,
+        "duration": 3600
+      },
+      "last_season_watched": "2",
+      "last_episode_watched": "4",
+      "last_updated": 1769552256225,
+      "rating": "10",
+      "seasons": [
+        {
+          "air_date": "2015-07-17",
+          "episode_count": 6,
+          "id": 69388,
+          "name": "Season 1",
+          "overview": "First Seasons of the Show",
+          "poster_path": "/ruhWqloHZGSrqnY6GHgVeHjsNzX.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2016-11-04",
+          "episode_count": 6,
+          "id": 81678,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/yRV7tk255UjAQXrUORjZaF3cx6I.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        },
+        {
+          "air_date": null,
+          "episode_count": 8,
+          "id": 108373,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/vuzQG1ZZleBEANyVP8SWCOlte57.jpg",
+          "season_number": 3,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-246462": {
+      "id": "246462",
+      "type": "tv",
+      "title": "True Crime Story: Smugshot",
+      "poster_path": "/8nhKta7JN02g5GRZ8RtZcXzCbMt.jpg",
+      "progress": {
+        "watched": 1145.875622463502,
+        "duration": 3600
+      },
+      "last_season_watched": "2",
+      "last_episode_watched": "3",
+      "last_updated": 1767757066173,
+      "rating": "16",
+      "seasons": [
+        {
+          "air_date": "2024-03-14",
+          "episode_count": 6,
+          "id": 379254,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/8nhKta7JN02g5GRZ8RtZcXzCbMt.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2025-08-14",
+          "episode_count": 6,
+          "id": 465897,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/srrRuQRuzfoAjdQeIs4GL7vTnRk.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-655": {
+      "id": "655",
+      "title": "Star Trek: The Next Generation",
+      "type": "tv",
+      "last_season_watched": "4",
+      "last_episode_watched": "14",
+      "last_updated": 1776083622776,
+      "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+      "progress": {
+        "watched": 251.33311893304287,
+        "duration": 3600
+      },
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "2012-07-23",
+          "episode_count": 137,
+          "id": 1996,
+          "name": "Specials",
+          "overview": "Special installments of the series.",
+          "poster_path": "/eg2cYEp74IyWM6gDC6y7g3dDbu.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1987-09-28",
+          "episode_count": 25,
+          "id": 1989,
+          "name": "Season 1",
+          "overview": "Picking up decades after the original Star Trek series, season one begins the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
+          "poster_path": "/t1g6GLBQj8pfAla4qA0r5TnLw0R.jpg",
+          "season_number": 1,
+          "vote_average": 6.6
+        },
+        {
+          "air_date": "1988-11-21",
+          "episode_count": 22,
+          "id": 1990,
+          "name": "Season 2",
+          "overview": "In season two, the Enterprise continues on its journey across the galaxy with the birth of a new member. Picard once again leads the team as unknown civilizations take notice of the ship and wishes to know more about the crew and their operations. Riker struggles with his loyalty to the Enterprise as his life is threatened and Data tries to become more human to understand his role upon the Enterprise. This season looks closer into the relationship of man vs. machine as Q once again tries to test Picard against a new enemy. The Ferengi threatens the Enterprise and the mystery of the holodeck pits the crew against the clock as lives hang in the balance.",
+          "poster_path": "/3recmOpquLOM31YOvVNQlR6U94H.jpg",
+          "season_number": 2,
+          "vote_average": 6.6
+        },
+        {
+          "air_date": "1989-09-25",
+          "episode_count": 26,
+          "id": 1995,
+          "name": "Season 3",
+          "overview": "With the disappearance of a Federation colony, the Enterprise warp speeds to action to uncover if the reason was political or something much more sinister. Along their travels, the crew must escort a scientist who may hold the key to a malfunction that places the crew in danger. Prime Directives are broken as Picard is taken for a god on a primitive world. The Romulans continue to notice Federation intrusion into the Neutral Zone and threatens war against the Enterprise. Things become much more complex as an old enemy stops by and Picard must decide if he should offer solace or choose to remain enemies as a precaution. All leading up to finally answering the motives of Starfleet and the Federation as the Enterprise continues on its mission to explore the galaxy.",
+          "poster_path": "/odNdFj4dblGPRfwdDo7U0599fWI.jpg",
+          "season_number": 3,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "1990-09-24",
+          "episode_count": 26,
+          "id": 1991,
+          "name": "Season 4",
+          "overview": "As Riker tries to save the Enterprise and the Earth from a powerful alien race, Captain Picard's life hangs in the balance. The crew faces their own demons and must overcome their own obstacles to continue their mission. This leads Data to return to his creator to better understand emotions. Worf must accept his Klingon heritage and face his former family. A power struggle threatens the Federation as the Romulans try to make peace with their universe and the Klingons deal with a potential successor to their empire. Political relations are strained within the Enterprise as a rogue ship attacks former enemies of the Federation, ultimately leading up to a civil war where one member of the Enterprise must decide where his loyalty lies.",
+          "poster_path": "/x56cmiHHvKIDRBHSTUohNYxtDHS.jpg",
+          "season_number": 4,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "1991-09-23",
+          "episode_count": 26,
+          "id": 1992,
+          "name": "Season 5",
+          "overview": "In season five, Starfleet becomes involved in a vast conspiracy amidst a Klingon civil war which forces the Enterprise to become an unwilling pawn against the Romulans as Starfleet's motives are unknown. This leads Picard and Data to undertake a journey to seek out a mysterious member who is trying to make peace between the Romulans and the Vulcans. Meanwhile, a visitor from the future arrives on the Enterprise as Wolf struggles with his own handicap. The crew becomes even more conflicted as an injured enemy arrives. Peace is seen on the horizon but at what cost?",
+          "poster_path": "/eVlZ16kGyaHMHKc6YwzvoGBmZ1e.jpg",
+          "season_number": 5,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "1992-09-21",
+          "episode_count": 26,
+          "id": 1993,
+          "name": "Season 6",
+          "overview": "In season six, the crew is faced with a familiar face from the past who insists that machines cannot replace human experience. This causes conflict in Data who questions his affiliation with the Enterprise vs. joining a powerful enemy in order to feel his first emotion. Worf begins a quest to find his father as a means to finally accept his Klingon heritage and to restore honor upon his family. As the journey continues through the galaxy, Picard is kidnapped by a rebel alien command and Riker takes on the role of Captain to free Picard and restore the Enterprise. To Riker’s surprise, an old enemy returns and offers assistance with Picard’s rescue. All finishing with the Enterprise facing its most shocking surprise.",
+          "poster_path": "/l6POnlAk5vQgmru2dxm1Yns9kYl.jpg",
+          "season_number": 6,
+          "vote_average": 7.2
+        },
+        {
+          "air_date": "1993-09-20",
+          "episode_count": 25,
+          "id": 1994,
+          "name": "Season 7",
+          "overview": "In the seventh and final season, Riker goes undercover and rediscovers Picard posing as a mercenary on an alien ship. Together they initiate a plan to find a lethal artifact. The crew struggles to deal with Data's new found human elements which cause several traumatic episodes for the crew. As Picard is imprisoned by an alien race, he comes to terms with past emotions. Riker is once again conflicted between his loyalty to Picard and his obligation to Starfleet and the Federation. As the lives of the crew members are endangered, Picard is taken on a journey to the past, present, and future to see the results of his actions.",
+          "poster_path": "/8l5YMZo4KwvE9dQMvrr53nXkR28.jpg",
+          "season_number": 7,
+          "vote_average": 6.7
+        }
+      ],
+      "show_progress": {}
+    },
+    "tmdb-107484": {
+      "id": "107484",
+      "type": "tv",
+      "title": "Mandy",
+      "poster_path": "/lOCSeiNbZzCUKUL3RtAmyWY5ZcQ.jpg",
+      "progress": {
+        "watched": 2782.0632640018466,
+        "duration": 3600
+      },
+      "last_season_watched": "2",
+      "last_episode_watched": "2",
+      "last_updated": 1771704212893,
+      "rating": "12",
+      "seasons": [
+        {
+          "air_date": "2019-07-28",
+          "episode_count": 3,
+          "id": 178977,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/iN47gwkrfQLAsBeobEXTqKDTrOb.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2020-08-13",
+          "episode_count": 6,
+          "id": 159126,
+          "name": "Series 1",
+          "overview": "",
+          "poster_path": "/63RKqJNgwhmi4AnZR8SlBPvE3oo.jpg",
+          "season_number": 1,
+          "vote_average": 7.6
+        },
+        {
+          "air_date": "2022-01-05",
+          "episode_count": 6,
+          "id": 238668,
+          "name": "Series 2",
+          "overview": "",
+          "poster_path": "/A8yYj6DbTnSfMnNEHtqnZq5sEm.jpg",
+          "season_number": 2,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "2024-03-27",
+          "episode_count": 6,
+          "id": 383515,
+          "name": "Series 3",
+          "overview": "",
+          "poster_path": "/vXKW3KekfDeMxoWNikrAgxYZ8F8.jpg",
+          "season_number": 3,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "2025-07-21",
+          "episode_count": 6,
+          "id": 464609,
+          "name": "Series 4",
+          "overview": "",
+          "poster_path": "/qUl02Fi50jd8pFoj5HiwBLkKZgv.jpg",
+          "season_number": 4,
+          "vote_average": 7.7
+        }
+      ]
+    },
+    "tmdb-223530": {
+      "id": "223530",
+      "type": "tv",
+      "title": "Star Trek: Starfleet Academy",
+      "poster_path": "/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+      "progress": {
+        "watched": 3434.4440534266296,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "10",
+      "last_updated": 1773547361712,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2026-01-15",
+          "episode_count": 10,
+          "id": 334969,
+          "name": "Season 1",
+          "overview": "A young group of Starfleet cadets navigating friendships and rivalries, as well as first loves and a new enemy that poses a threat not to just the Academy, but to the Federation. And, in between all that drama, they strive to meet the standards of their exacting instructors.",
+          "poster_path": "/eOxwyGkGKq4WZCgdVlU1pr2XcCG.jpg",
+          "season_number": 1,
+          "vote_average": 4.9
+        }
+      ],
+      "show_progress": {}
+    },
+    "tmdb-4414": {
+      "id": "4414",
+      "type": "tv",
+      "title": "Highlander: The Series",
+      "poster_path": "/rpeEOxxgfw5Ds54jWcNtkb9KvSh.jpg",
+      "progress": {
+        "watched": 1692.4549054552144,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "3",
+      "last_updated": 1771209079419,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2003-04-27",
+          "episode_count": 1,
+          "id": 202933,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/lDsrlgtwVnl3k5bLGyK1WV2Dfwr.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1992-10-03",
+          "episode_count": 22,
+          "id": 13169,
+          "name": "Season 1",
+          "overview": "The adventures of Duncan MacLeod, a 400-year-old Immortal who can only die if he is beheaded; conflict inevitably finds him because he is part of the Game, an ongoing battle in which all Immortals have to fight and behead each other until only one is left.",
+          "poster_path": "/6ssP4LV5VmMtf7SNAn8WSLToahP.jpg",
+          "season_number": 1,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "1993-10-02",
+          "episode_count": 22,
+          "id": 13170,
+          "name": "Season 2",
+          "overview": "The series continues to follow the adventures of Duncan MacLeod, a 400-year-old Immortal who can only die if he is beheaded. MacLeod is involved in the Game, an ongoing battle during which all Immortals have to behead each other until only one is left.",
+          "poster_path": "/rphEFqGhQ5T4uVOO7lUOeLa1Gzb.jpg",
+          "season_number": 2,
+          "vote_average": 8
+        },
+        {
+          "air_date": "1994-10-01",
+          "episode_count": 22,
+          "id": 13171,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/pQUIb3HoRLdj6VL9ooPymkgdpYg.jpg",
+          "season_number": 3,
+          "vote_average": 7.8
+        },
+        {
+          "air_date": "1995-10-01",
+          "episode_count": 20,
+          "id": 13172,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/deM6LFKDOmMH9p3nzVOtOnWb5wN.jpg",
+          "season_number": 4,
+          "vote_average": 8.5
+        },
+        {
+          "air_date": "1996-09-23",
+          "episode_count": 20,
+          "id": 13173,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": "/flpfQXjN5jkd1aldo0aK8U6GBOc.jpg",
+          "season_number": 5,
+          "vote_average": 5
+        },
+        {
+          "air_date": "1997-10-04",
+          "episode_count": 13,
+          "id": 13174,
+          "name": "Season 6",
+          "overview": "",
+          "poster_path": "/lXrTtCfaIMq0O2nq7Tzr8XOy036.jpg",
+          "season_number": 6,
+          "vote_average": 4.5
+        }
+      ]
+    },
+    "tmdb-33168": {
+      "id": "33168",
+      "type": "tv",
+      "title": "Fact or Faked: Paranormal Files",
+      "poster_path": "/lYNYf4rMcWhu7v2O6qdnaOkhLYN.jpg",
+      "progress": {
+        "watched": 2432.097795698235,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "10",
+      "last_updated": 1770596256436,
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "2010-07-15",
+          "episode_count": 12,
+          "id": 44393,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/y88kfqY8wmGW2l6Y8HmpZMkVqsz.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2011-03-23",
+          "episode_count": 24,
+          "id": 44394,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/vjLiu3zGbJ7C5bwkDRce9C8RtJZ.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2012-04-17",
+          "episode_count": 12,
+          "id": 44395,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 3,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-88386": {
+      "id": "88386",
+      "type": "tv",
+      "title": "Jeremy Wade's Dark Waters",
+      "poster_path": "/aIfRUAUaPqNZ2L2F5fkJyiTEqp9.jpg",
+      "progress": {
+        "watched": 3446.313825453435,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "7",
+      "last_updated": 1770865914428,
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "2019-04-20",
+          "episode_count": 8,
+          "id": 122112,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/aIfRUAUaPqNZ2L2F5fkJyiTEqp9.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": null,
+          "episode_count": 0,
+          "id": 485197,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 2,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-55600": {
+      "id": "55600",
+      "type": "tv",
+      "title": "Gadget Man",
+      "poster_path": "/gc6mvup9OfyA9u98oRV9htzuHz5.jpg",
+      "progress": {
+        "watched": 1729.4523549253577,
+        "duration": 3600
+      },
+      "last_season_watched": "3",
+      "last_episode_watched": "1",
+      "last_updated": 1771045175562,
+      "rating": "PG",
+      "seasons": [
+        {
+          "air_date": "2012-11-19",
+          "episode_count": 6,
+          "id": 57624,
+          "name": "Series 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 7
+        },
+        {
+          "air_date": "2013-09-02",
+          "episode_count": 6,
+          "id": 57625,
+          "name": "Series 2",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 2,
+          "vote_average": 7.5
+        },
+        {
+          "air_date": "2014-08-25",
+          "episode_count": 9,
+          "id": 62757,
+          "name": "Series 3",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 3,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2015-06-01",
+          "episode_count": 4,
+          "id": 106454,
+          "name": "Series 4",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 4,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-62247": {
+      "id": "62247",
+      "type": "tv",
+      "title": "Travel Man: 48 Hours in...",
+      "poster_path": "/wc8KXKJDqvveO7bplrHHTRMO14B.jpg",
+      "progress": {
+        "watched": 2622.2440101585057,
+        "duration": 3600
+      },
+      "last_season_watched": "5",
+      "last_episode_watched": "4",
+      "last_updated": 1773714779153,
+      "rating": "12",
+      "seasons": [
+        {
+          "air_date": "2016-12-25",
+          "episode_count": 9,
+          "id": 87411,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/crJLW2otrBS6rMVIWUFTJydgsRh.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2015-03-30",
+          "episode_count": 4,
+          "id": 65611,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/bEMsUHsSS5lalpM4yRlPQMYslVi.jpg",
+          "season_number": 1,
+          "vote_average": 7.6
+        },
+        {
+          "air_date": "2016-01-05",
+          "episode_count": 8,
+          "id": 87638,
+          "name": "Series 2",
+          "overview": "",
+          "poster_path": "/o1ObgZZOyzSG4xtQ7H9wmY0SLHh.jpg",
+          "season_number": 2,
+          "vote_average": 8.4
+        },
+        {
+          "air_date": "2016-09-23",
+          "episode_count": 4,
+          "id": 80659,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/uUicbwI2zHcCwHCWFPSN5RgPXOM.jpg",
+          "season_number": 3,
+          "vote_average": 7.8
+        },
+        {
+          "air_date": "2017-03-06",
+          "episode_count": 4,
+          "id": 87405,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/rJ22Fu3jSWC7LshgO6lXMfPV0sK.jpg",
+          "season_number": 4,
+          "vote_average": 8.3
+        },
+        {
+          "air_date": "2017-10-20",
+          "episode_count": 4,
+          "id": 94896,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": "/vgoV5zt5ud9XgZLo1osQh51KBbr.jpg",
+          "season_number": 5,
+          "vote_average": 8.5
+        },
+        {
+          "air_date": "2018-04-02",
+          "episode_count": 4,
+          "id": 102979,
+          "name": "Season 6",
+          "overview": "",
+          "poster_path": "/tdpmENk2qdmbCNjB5gixwJB1zPK.jpg",
+          "season_number": 6,
+          "vote_average": 8.4
+        },
+        {
+          "air_date": "2018-09-10",
+          "episode_count": 4,
+          "id": 122803,
+          "name": "Season 7",
+          "overview": "",
+          "poster_path": "/enyB7f1keIAupZaoeUI5vsTGJJe.jpg",
+          "season_number": 7,
+          "vote_average": 8.5
+        },
+        {
+          "air_date": "2019-04-15",
+          "episode_count": 4,
+          "id": 122802,
+          "name": "Season 8",
+          "overview": "",
+          "poster_path": "/cNj5BKenMZUtGDXl5ppZ59r3lSL.jpg",
+          "season_number": 8,
+          "vote_average": 8.1
+        },
+        {
+          "air_date": "2019-10-21",
+          "episode_count": 4,
+          "id": 135332,
+          "name": "Season 9",
+          "overview": "",
+          "poster_path": "/ivf8rrbPpLW8lFEOlrAnyi3sDGE.jpg",
+          "season_number": 9,
+          "vote_average": 8.2
+        },
+        {
+          "air_date": "2022-04-04",
+          "episode_count": 4,
+          "id": 286356,
+          "name": "Season 10",
+          "overview": "",
+          "poster_path": "/q1Iy9XizaRe5IYoJ4nI8WKXwfmH.jpg",
+          "season_number": 10,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2023-01-13",
+          "episode_count": 4,
+          "id": 323247,
+          "name": "Season 11",
+          "overview": "",
+          "poster_path": "/4ZpYRQspleuVBLEuOWqg8GXPYRU.jpg",
+          "season_number": 11,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2024-03-22",
+          "episode_count": 4,
+          "id": 382828,
+          "name": "Season 12",
+          "overview": "",
+          "poster_path": "/axPaL4Xht0LvyxFAzPYrdZe9SEl.jpg",
+          "season_number": 12,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2025-01-10",
+          "episode_count": 4,
+          "id": 434804,
+          "name": "Season 13",
+          "overview": "",
+          "poster_path": "/axPaL4Xht0LvyxFAzPYrdZe9SEl.jpg",
+          "season_number": 13,
+          "vote_average": 7.7
+        }
+      ]
+    },
+    "tmdb-61413": {
+      "id": "61413",
+      "title": "Toast of London",
+      "type": "tv",
+      "last_season_watched": "2",
+      "last_episode_watched": "4",
+      "last_updated": 1772555914152,
+      "poster_path": "/gmcw8XDLWUA6Na6khKJdawhI41v.jpg",
+      "progress": {
+        "watched": 2827.671996775785,
+        "duration": 3600
+      },
+      "rating": "15",
+      "seasons": [
+        {
+          "air_date": "2012-08-20",
+          "episode_count": 14,
+          "id": 205797,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/2DjN6mdRZXDvbcPM0517RWOuTQW.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2013-10-20",
+          "episode_count": 6,
+          "id": 62870,
+          "name": "Series 1",
+          "overview": "",
+          "poster_path": "/ylfM9vi3MRImiQ54WsGvhi6IfgC.jpg",
+          "season_number": 1,
+          "vote_average": 6.9
+        },
+        {
+          "air_date": "2014-11-03",
+          "episode_count": 6,
+          "id": 72070,
+          "name": "Series 2",
+          "overview": "",
+          "poster_path": "/w8iOohDcSueJyFGAXs4sIPQAD2u.jpg",
+          "season_number": 2,
+          "vote_average": 6
+        },
+        {
+          "air_date": "2015-11-18",
+          "episode_count": 6,
+          "id": 72071,
+          "name": "Series 3",
+          "overview": "",
+          "poster_path": "/j8800QRKj0018NTv8x6muSmxUC6.jpg",
+          "season_number": 3,
+          "vote_average": 7.8
+        }
+      ]
+    },
+    "tmdb-103776": {
+      "id": "103776",
+      "type": "tv",
+      "title": "Mysteries of the Deep",
+      "poster_path": "/irGgEMYAqApEwCebTJw4VJvjZKZ.jpg",
+      "progress": {
+        "watched": 1615.433668328805,
+        "duration": 3600
+      },
+      "last_season_watched": "2",
+      "last_episode_watched": "4",
+      "last_updated": 1773803524746,
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "2020-05-27",
+          "episode_count": 10,
+          "id": 151462,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/ojxGsJ8Dxh9WCMV6UQSQdoIlPAq.jpg",
+          "season_number": 1,
+          "vote_average": 7.5
+        },
+        {
+          "air_date": "2022-08-10",
+          "episode_count": 8,
+          "id": 304640,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/ybBbuKEeDugPCHhvr4abxI3fDlZ.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        }
       ]
     },
     "tmdb-61833": {
@@ -170,7 +2021,7 @@
       "title": "Expedition Unknown",
       "poster_path": "/4OiM6apNckkqo04I7TO5VmQl65R.jpg",
       "progress": {
-        "watched": 1858.5244964181231,
+        "watched": 2265.377266688141,
         "duration": 3600
       },
       "last_season_watched": "7",
@@ -358,101 +2209,671 @@
           "season_number": 17,
           "vote_average": 6.7
         }
-      ]
+      ],
+      "show_progress": {}
     },
-    "tmdb-655": {
-      "id": "655",
-      "title": "Star Trek: The Next Generation",
+    "tmdb-3562": {
+      "id": "3562",
       "type": "tv",
-      "last_season_watched": "3",
-      "last_episode_watched": "9",
-      "last_updated": 1776083622776,
-      "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+      "title": "NOVA",
+      "poster_path": "/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
       "progress": {
-        "watched": 251.33311893304287,
+        "watched": 2175.248328207307,
         "duration": 3600
       },
+      "last_season_watched": "48",
+      "last_episode_watched": "7",
+      "last_updated": 1772327697045,
       "rating": "TV-PG",
       "seasons": [
         {
-          "air_date": "2012-07-23",
-          "episode_count": 137,
-          "id": 1996,
+          "air_date": "1999-07-13",
+          "episode_count": 13,
+          "id": 10828,
           "name": "Specials",
-          "overview": "Special installments of the series.",
-          "poster_path": "/eg2cYEp74IyWM6gDC6y7g3dDbu.jpg",
+          "overview": "",
+          "poster_path": "/hrpNWnlth9MSZ0JGgVlOMnyNiZi.jpg",
           "season_number": 0,
           "vote_average": 0
         },
         {
-          "air_date": "1987-09-28",
-          "episode_count": 25,
-          "id": 1989,
+          "air_date": "1974-03-03",
+          "episode_count": 13,
+          "id": 10791,
           "name": "Season 1",
-          "overview": "Picking up decades after the original Star Trek series, season one begins the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
-          "poster_path": "/t1g6GLBQj8pfAla4qA0r5TnLw0R.jpg",
+          "overview": "",
+          "poster_path": "/j6lNoURRfwfd1vYbFZkc0GL3IXN.jpg",
           "season_number": 1,
-          "vote_average": 6.6
+          "vote_average": 10
         },
         {
-          "air_date": "1988-11-21",
-          "episode_count": 22,
-          "id": 1990,
+          "air_date": "1974-11-03",
+          "episode_count": 17,
+          "id": 10790,
           "name": "Season 2",
-          "overview": "In season two, the Enterprise continues on its journey across the galaxy with the birth of a new member. Picard once again leads the team as unknown civilizations take notice of the ship and wishes to know more about the crew and their operations. Riker struggles with his loyalty to the Enterprise as his life is threatened and Data tries to become more human to understand his role upon the Enterprise. This season looks closer into the relationship of man vs. machine as Q once again tries to test Picard against a new enemy. The Ferengi threatens the Enterprise and the mystery of the holodeck pits the crew against the clock as lives hang in the balance.",
-          "poster_path": "/3recmOpquLOM31YOvVNQlR6U94H.jpg",
+          "overview": "",
+          "poster_path": "/gb6e3ubp4hbGtiuEY25JZHCFZGc.jpg",
           "season_number": 2,
-          "vote_average": 6.6
+          "vote_average": 0
         },
         {
-          "air_date": "1989-09-25",
-          "episode_count": 26,
-          "id": 1995,
+          "air_date": "1976-01-04",
+          "episode_count": 20,
+          "id": 10787,
           "name": "Season 3",
-          "overview": "With the disappearance of a Federation colony, the Enterprise warp speeds to action to uncover if the reason was political or something much more sinister. Along their travels, the crew must escort a scientist who may hold the key to a malfunction that places the crew in danger. Prime Directives are broken as Picard is taken for a god on a primitive world. The Romulans continue to notice Federation intrusion into the Neutral Zone and threatens war against the Enterprise. Things become much more complex as an old enemy stops by and Picard must decide if he should offer solace or choose to remain enemies as a precaution. All leading up to finally answering the motives of Starfleet and the Federation as the Enterprise continues on its mission to explore the galaxy.",
-          "poster_path": "/odNdFj4dblGPRfwdDo7U0599fWI.jpg",
+          "overview": "",
+          "poster_path": "/h8AYuWpnWH2S3d3y5xSsMv3D2F4.jpg",
           "season_number": 3,
-          "vote_average": 7.1
+          "vote_average": 0
         },
         {
-          "air_date": "1990-09-24",
-          "episode_count": 26,
-          "id": 1991,
+          "air_date": "1977-01-05",
+          "episode_count": 19,
+          "id": 10789,
           "name": "Season 4",
-          "overview": "As Riker tries to save the Enterprise and the Earth from a powerful alien race, Captain Picard's life hangs in the balance. The crew faces their own demons and must overcome their own obstacles to continue their mission. This leads Data to return to his creator to better understand emotions. Worf must accept his Klingon heritage and face his former family. A power struggle threatens the Federation as the Romulans try to make peace with their universe and the Klingons deal with a potential successor to their empire. Political relations are strained within the Enterprise as a rogue ship attacks former enemies of the Federation, ultimately leading up to a civil war where one member of the Enterprise must decide where his loyalty lies.",
-          "poster_path": "/x56cmiHHvKIDRBHSTUohNYxtDHS.jpg",
+          "overview": "",
+          "poster_path": "/79p5IahlMxpMdUjwvmuo9k4Q0o9.jpg",
           "season_number": 4,
-          "vote_average": 7.1
+          "vote_average": 0
         },
         {
-          "air_date": "1991-09-23",
-          "episode_count": 26,
-          "id": 1992,
+          "air_date": "1978-01-04",
+          "episode_count": 21,
+          "id": 10788,
           "name": "Season 5",
-          "overview": "In season five, Starfleet becomes involved in a vast conspiracy amidst a Klingon civil war which forces the Enterprise to become an unwilling pawn against the Romulans as Starfleet's motives are unknown. This leads Picard and Data to undertake a journey to seek out a mysterious member who is trying to make peace between the Romulans and the Vulcans. Meanwhile, a visitor from the future arrives on the Enterprise as Wolf struggles with his own handicap. The crew becomes even more conflicted as an injured enemy arrives. Peace is seen on the horizon but at what cost?",
-          "poster_path": "/eVlZ16kGyaHMHKc6YwzvoGBmZ1e.jpg",
+          "overview": "",
+          "poster_path": "/xPuFIqPn4XiDiGApqihaoqKL5a7.jpg",
           "season_number": 5,
-          "vote_average": 7.1
+          "vote_average": 10
         },
         {
-          "air_date": "1992-09-21",
-          "episode_count": 26,
-          "id": 1993,
+          "air_date": "1979-01-04",
+          "episode_count": 19,
+          "id": 10797,
           "name": "Season 6",
-          "overview": "In season six, the crew is faced with a familiar face from the past who insists that machines cannot replace human experience. This causes conflict in Data who questions his affiliation with the Enterprise vs. joining a powerful enemy in order to feel his first emotion. Worf begins a quest to find his father as a means to finally accept his Klingon heritage and to restore honor upon his family. As the journey continues through the galaxy, Picard is kidnapped by a rebel alien command and Riker takes on the role of Captain to free Picard and restore the Enterprise. To Riker’s surprise, an old enemy returns and offers assistance with Picard’s rescue. All finishing with the Enterprise facing its most shocking surprise.",
-          "poster_path": "/l6POnlAk5vQgmru2dxm1Yns9kYl.jpg",
+          "overview": "",
+          "poster_path": "/iOZ3IjUFEiN0m7XXdXDLUWf1zlg.jpg",
           "season_number": 6,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1980-01-15",
+          "episode_count": 20,
+          "id": 10796,
+          "name": "Season 7",
+          "overview": "",
+          "poster_path": "/zdGVTr7APFR5YIQA59EauaiicDS.jpg",
+          "season_number": 7,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1981-01-06",
+          "episode_count": 20,
+          "id": 10809,
+          "name": "Season 8",
+          "overview": "",
+          "poster_path": "/yN2ZEtFnmQ9t388Uqzxw9VVSx00.jpg",
+          "season_number": 8,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1982-01-10",
+          "episode_count": 19,
+          "id": 10810,
+          "name": "Season 9",
+          "overview": "",
+          "poster_path": "/wvi42VF1tTxq1vCDPHiPaDMQjGQ.jpg",
+          "season_number": 9,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1983-01-18",
+          "episode_count": 21,
+          "id": 10811,
+          "name": "Season 10",
+          "overview": "",
+          "poster_path": "/ubQUZY7q0zUQYdZqhit7tjZBQt7.jpg",
+          "season_number": 10,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1984-01-17",
+          "episode_count": 20,
+          "id": 10812,
+          "name": "Season 11",
+          "overview": "",
+          "poster_path": "/mQyoay6qmlCZCjZc27Qc10Z2mmq.jpg",
+          "season_number": 11,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1985-01-15",
+          "episode_count": 20,
+          "id": 10813,
+          "name": "Season 12",
+          "overview": "",
+          "poster_path": "/khVcIoOpdp0SOR4PRz6D9m0g0h7.jpg",
+          "season_number": 12,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1986-01-21",
+          "episode_count": 21,
+          "id": 10814,
+          "name": "Season 13",
+          "overview": "",
+          "poster_path": "/xnxm88nzw8NKwjtIF0HGpaU1wPt.jpg",
+          "season_number": 13,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1987-01-20",
+          "episode_count": 21,
+          "id": 10815,
+          "name": "Season 14",
+          "overview": "",
+          "poster_path": "/pt3nGk92PkU6vllunf7TmoaZBZI.jpg",
+          "season_number": 14,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1988-01-19",
+          "episode_count": 22,
+          "id": 10816,
+          "name": "Season 15",
+          "overview": "",
+          "poster_path": "/sEH5cmZa3liarUrfsqGv7CAIhZ6.jpg",
+          "season_number": 15,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1989-01-17",
+          "episode_count": 20,
+          "id": 10800,
+          "name": "Season 16",
+          "overview": "",
+          "poster_path": "/6P2gF5whMSwOVC4bg1nbNishAn1.jpg",
+          "season_number": 16,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1990-01-09",
+          "episode_count": 20,
+          "id": 10817,
+          "name": "Season 17",
+          "overview": "",
+          "poster_path": "/tK6vn87rLtV2YoukqJRLnmgFTnx.jpg",
+          "season_number": 17,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1991-01-08",
+          "episode_count": 19,
+          "id": 10819,
+          "name": "Season 18",
+          "overview": "",
+          "poster_path": "/7ex30YIF7EqvKbEB5i22BCfbDdI.jpg",
+          "season_number": 18,
+          "vote_average": 8
+        },
+        {
+          "air_date": "1992-01-14",
+          "episode_count": 20,
+          "id": 10818,
+          "name": "Season 19",
+          "overview": "",
+          "poster_path": "/dxSd9WWFliCJMQIQIwz6j9p91WS.jpg",
+          "season_number": 19,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1993-01-05",
+          "episode_count": 20,
+          "id": 10794,
+          "name": "Season 20",
+          "overview": "",
+          "poster_path": "/nTGKOY8GrtloN7SRDooZAyEvdKK.jpg",
+          "season_number": 20,
+          "vote_average": 8.3
+        },
+        {
+          "air_date": "1994-01-18",
+          "episode_count": 20,
+          "id": 10822,
+          "name": "Season 21",
+          "overview": "",
+          "poster_path": "/7gX356Bzzu3cvIRPepJm9PSSO0b.jpg",
+          "season_number": 21,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1995-01-08",
+          "episode_count": 13,
+          "id": 10823,
+          "name": "Season 22",
+          "overview": "",
+          "poster_path": "/jEcY9qiG1545CwyE1J9EvMxxniU.jpg",
+          "season_number": 22,
+          "vote_average": 1
+        },
+        {
+          "air_date": "1995-10-10",
+          "episode_count": 19,
+          "id": 10824,
+          "name": "Season 23",
+          "overview": "",
+          "poster_path": "/oAy5BifVu1oKIKCFvpKxzvJfWkN.jpg",
+          "season_number": 23,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1996-10-01",
+          "episode_count": 21,
+          "id": 10792,
+          "name": "Season 24",
+          "overview": "",
+          "poster_path": "/17BiQZZDGXrzWbzi45UAZ9cmmDi.jpg",
+          "season_number": 24,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1997-10-07",
+          "episode_count": 20,
+          "id": 10799,
+          "name": "Season 25",
+          "overview": "",
+          "poster_path": "/nqz77Vec5zP6Eahdj2hzaEqhAU1.jpg",
+          "season_number": 25,
+          "vote_average": 7
+        },
+        {
+          "air_date": "1998-10-06",
+          "episode_count": 20,
+          "id": 10793,
+          "name": "Season 26",
+          "overview": "",
+          "poster_path": "/eDvso5Mru4qHNroZrpXz0h31hTj.jpg",
+          "season_number": 26,
+          "vote_average": 0
+        },
+        {
+          "air_date": "1999-10-05",
+          "episode_count": 21,
+          "id": 10795,
+          "name": "Season 27",
+          "overview": "",
+          "poster_path": "/xrW97WpiLVHmfgZOALuclpMYCaX.jpg",
+          "season_number": 27,
+          "vote_average": 7
+        },
+        {
+          "air_date": "2000-10-24",
+          "episode_count": 17,
+          "id": 10801,
+          "name": "Season 28",
+          "overview": "",
+          "poster_path": "/6GkC3CuZYMG0MoHEHKxkZsgJNyq.jpg",
+          "season_number": 28,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2001-10-02",
+          "episode_count": 17,
+          "id": 10798,
+          "name": "Season 29",
+          "overview": "",
+          "poster_path": "/9QuNIDriVwnFM570bhKvnYx6kDj.jpg",
+          "season_number": 29,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2002-09-03",
+          "episode_count": 16,
+          "id": 10807,
+          "name": "Season 30",
+          "overview": "",
+          "poster_path": "/gW0A1PjQ24AiRHu3qzBoKca3n0Q.jpg",
+          "season_number": 30,
+          "vote_average": 8.2
+        },
+        {
+          "air_date": "2003-09-30",
+          "episode_count": 18,
+          "id": 10802,
+          "name": "Season 31",
+          "overview": "",
+          "poster_path": "/dQiHAaYz2tdE4jPEDZTYiOKogM5.jpg",
+          "season_number": 31,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2004-09-28",
+          "episode_count": 18,
+          "id": 10805,
+          "name": "Season 32",
+          "overview": "",
+          "poster_path": "/nuyS4ZLqmwVDgOvjyCRqbjYNTz1.jpg",
+          "season_number": 32,
+          "vote_average": 7.6
+        },
+        {
+          "air_date": "2005-09-20",
+          "episode_count": 20,
+          "id": 10804,
+          "name": "Season 33",
+          "overview": "",
+          "poster_path": "/vILBsiPMFAAUehm73zwnhxUiOQG.jpg",
+          "season_number": 33,
+          "vote_average": 7.3
+        },
+        {
+          "air_date": "2006-09-05",
+          "episode_count": 15,
+          "id": 10803,
+          "name": "Season 34",
+          "overview": "",
+          "poster_path": "/iVpFi37XdutMQOmJUJGL4QQKZAZ.jpg",
+          "season_number": 34,
+          "vote_average": 7.5
+        },
+        {
+          "air_date": "2007-10-09",
+          "episode_count": 17,
+          "id": 10806,
+          "name": "Season 35",
+          "overview": "",
+          "poster_path": "/4DzmIQ2uvbKbGkzlocjzjMrQ53x.jpg",
+          "season_number": 35,
+          "vote_average": 6.7
+        },
+        {
+          "air_date": "2008-10-07",
+          "episode_count": 17,
+          "id": 10808,
+          "name": "Season 36",
+          "overview": "",
+          "poster_path": "/kv6oK0HnJesRVw1AIh7393jQHLA.jpg",
+          "season_number": 36,
+          "vote_average": 7.5
+        },
+        {
+          "air_date": "2009-10-06",
+          "episode_count": 18,
+          "id": 10825,
+          "name": "Season 37",
+          "overview": "",
+          "poster_path": "/sBOdy2SjVC3sV4ZTx76obFlnFPt.jpg",
+          "season_number": 37,
           "vote_average": 7.2
         },
         {
-          "air_date": "1993-09-20",
+          "air_date": "2010-10-19",
+          "episode_count": 18,
+          "id": 10826,
+          "name": "Season 38",
+          "overview": "",
+          "poster_path": "/wC4drskgZX0yv4bQWYe51QU3kAt.jpg",
+          "season_number": 38,
+          "vote_average": 5.8
+        },
+        {
+          "air_date": "2011-09-07",
+          "episode_count": 19,
+          "id": 10827,
+          "name": "Season 39",
+          "overview": "",
+          "poster_path": "/gY4R1Z8tvwB1oA4XEHkntQ7eJRN.jpg",
+          "season_number": 39,
+          "vote_average": 7.7
+        },
+        {
+          "air_date": "2012-10-10",
+          "episode_count": 20,
+          "id": 10829,
+          "name": "Season 40",
+          "overview": "",
+          "poster_path": "/4j5tThkAf74KoN4MmnbvXXMI5Xp.jpg",
+          "season_number": 40,
+          "vote_average": 7.3
+        },
+        {
+          "air_date": "2013-09-11",
+          "episode_count": 22,
+          "id": 10830,
+          "name": "Season 41",
+          "overview": "",
+          "poster_path": "/6U4AOkSeO3UblMdUSnYCMsXF7Ek.jpg",
+          "season_number": 41,
+          "vote_average": 6.6
+        },
+        {
+          "air_date": "2014-09-10",
+          "episode_count": 22,
+          "id": 62621,
+          "name": "Season 42",
+          "overview": "",
+          "poster_path": "/mavBEnw7b9438D2ez9mQEzFnrKR.jpg",
+          "season_number": 42,
+          "vote_average": 7.6
+        },
+        {
+          "air_date": "2015-09-16",
+          "episode_count": 22,
+          "id": 70588,
+          "name": "Season 43",
+          "overview": "",
+          "poster_path": "/tBzD4sgUNkrPvJCDLFAQBKatMfd.jpg",
+          "season_number": 43,
+          "vote_average": 6.2
+        },
+        {
+          "air_date": "2016-09-07",
+          "episode_count": 28,
+          "id": 79816,
+          "name": "Season 44",
+          "overview": "",
+          "poster_path": "/f8aExmIVp9371L0US0wCGYaSf6q.jpg",
+          "season_number": 44,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "2018-01-10",
+          "episode_count": 23,
+          "id": 95151,
+          "name": "Season 45",
+          "overview": "",
+          "poster_path": "/3WVVHvyLlbl6MIFpQelGBd8zJrb.jpg",
+          "season_number": 45,
+          "vote_average": 10
+        },
+        {
+          "air_date": "2019-01-02",
+          "episode_count": 23,
+          "id": 119510,
+          "name": "Season 46",
+          "overview": "",
+          "poster_path": "/16YYXoEQ8BHL7xTro1N3VhOk9HS.jpg",
+          "season_number": 46,
+          "vote_average": 7
+        },
+        {
+          "air_date": "2020-02-05",
+          "episode_count": 16,
+          "id": 142974,
+          "name": "Season 47",
+          "overview": "",
+          "poster_path": "/3BRCKOyhfqhhIMOfdqH0JJ62CHY.jpg",
+          "season_number": 47,
+          "vote_average": 7.5
+        },
+        {
+          "air_date": "2021-01-14",
           "episode_count": 25,
-          "id": 1994,
-          "name": "Season 7",
-          "overview": "In the seventh and final season, Riker goes undercover and rediscovers Picard posing as a mercenary on an alien ship. Together they initiate a plan to find a lethal artifact. The crew struggles to deal with Data's new found human elements which cause several traumatic episodes for the crew. As Picard is imprisoned by an alien race, he comes to terms with past emotions. Riker is once again conflicted between his loyalty to Picard and his obligation to Starfleet and the Federation. As the lives of the crew members are endangered, Picard is taken on a journey to the past, present, and future to see the results of his actions.",
-          "poster_path": "/8l5YMZo4KwvE9dQMvrr53nXkR28.jpg",
-          "season_number": 7,
+          "id": 173421,
+          "name": "Season 48",
+          "overview": "",
+          "poster_path": "/axUfyJVIZYmIvhjjbGIwY7w20iV.jpg",
+          "season_number": 48,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2022-02-02",
+          "episode_count": 19,
+          "id": 238719,
+          "name": "Season 49",
+          "overview": "",
+          "poster_path": "/z5SOjXTya7OaoHGYlt8BuGGr3vG.jpg",
+          "season_number": 49,
+          "vote_average": 6.5
+        },
+        {
+          "air_date": "2023-02-01",
+          "episode_count": 18,
+          "id": 319628,
+          "name": "Season 50",
+          "overview": "",
+          "poster_path": "/AiljvXscsTt4gTxVlr3VGnQfIR6.jpg",
+          "season_number": 50,
           "vote_average": 6.7
+        },
+        {
+          "air_date": "2024-01-31",
+          "episode_count": 18,
+          "id": 367178,
+          "name": "Season 51",
+          "overview": "",
+          "poster_path": "/2LdJrjFa1QMF5h2PWIoXGT58S8W.jpg",
+          "season_number": 51,
+          "vote_average": 6
+        },
+        {
+          "air_date": "2025-01-22",
+          "episode_count": 20,
+          "id": 433075,
+          "name": "Season 52",
+          "overview": "",
+          "poster_path": "/cvzsR1TFW4lIDLOJnRqFwFJnuUm.jpg",
+          "season_number": 52,
+          "vote_average": 7.7
+        },
+        {
+          "air_date": "2026-01-21",
+          "episode_count": 8,
+          "id": 484204,
+          "name": "Season 53",
+          "overview": "",
+          "poster_path": "/ddnZjJbdyzYtvgz4ECncsEtcbT.jpg",
+          "season_number": 53,
+          "vote_average": 7
+        }
+      ]
+    },
+    "tmdb-202411": {
+      "id": "202411",
+      "type": "tv",
+      "title": "Monarch: Legacy of Monsters",
+      "poster_path": "/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+      "progress": {
+        "watched": 3532.722300897664,
+        "duration": 3600
+      },
+      "last_season_watched": "2",
+      "last_episode_watched": "8",
+      "last_updated": 1775961316843,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2023-11-15",
+          "episode_count": 10,
+          "id": 294443,
+          "name": "Season 1",
+          "overview": "In season one, two siblings look to uncover their family's connection to the secretive organization known as Monarch. Clues lead them into the world of monsters and ultimately down the rabbit hole to Army officer Lee Shaw, taking place in the 1950s and half a century later where Monarch is threatened by what Shaw knows.",
+          "poster_path": "/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
+          "season_number": 1,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "2026-02-26",
+          "episode_count": 10,
+          "id": 484723,
+          "name": "Season 2",
+          "overview": "Season two picks up with the fate of Monarch — and the world — hanging in the balance. Buried secrets are revealed that reunite our heroes (and villains) on Kong's Skull Island, and a new, mysterious village where a mythical Titan rises from the sea. The ripple effects of the past make waves in the present day, blurring the bonds between family, friend and foe — all with the threat of a Titan event on the horizon.",
+          "poster_path": "/garCCMokkC9TbzmOGPvFTqpRD2C.jpg",
+          "season_number": 2,
+          "vote_average": 7.4
+        }
+      ],
+      "show_progress": {}
+    },
+    "tmdb-71124": {
+      "id": "71124",
+      "type": "tv",
+      "title": "Cooper's Treasure",
+      "poster_path": "/12ae8KreaZDuBGX5YPhG7Xh5sg6.jpg",
+      "progress": {
+        "watched": 3257.315288996632,
+        "duration": 3600
+      },
+      "last_season_watched": "2",
+      "last_episode_watched": "8",
+      "last_updated": 1772763628262,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2017-05-23",
+          "episode_count": 2,
+          "id": 344563,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2017-04-18",
+          "episode_count": 6,
+          "id": 87157,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/hmSpeuG8WGAxT0NeisoCXqCL1tT.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2018-06-22",
+          "episode_count": 8,
+          "id": 105471,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/9DbV68x0CaG1WphED8tji9IRkMV.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        }
+      ],
+      "show_progress": {}
+    },
+    "tmdb-153347": {
+      "id": "153347",
+      "title": "Toast of Tinseltown",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "5",
+      "last_updated": 1772723341516,
+      "poster_path": "/uizUt2k0ygFPRXkchapN7UYOyAw.jpg",
+      "progress": {
+        "watched": 1461.6476767079678,
+        "duration": 3600
+      },
+      "seasons": [
+        {
+          "air_date": "2022-01-03",
+          "episode_count": 6,
+          "id": 235698,
+          "name": "Series 1",
+          "overview": "",
+          "poster_path": "/6nODPHI5szyhqIcOSgu3ukiXXcs.jpg",
+          "season_number": 1,
+          "vote_average": 7.8
         }
       ]
     },
@@ -462,12 +2883,12 @@
       "title": "Babylon 5",
       "poster_path": "/td8O6KJQpN9ZRiuyFUILziXFMrk.jpg",
       "progress": {
-        "watched": 1955.782721668966,
+        "watched": 3028.3927827584025,
         "duration": 3600
       },
       "last_season_watched": "5",
       "last_episode_watched": "19",
-      "last_updated": 1776232704636,
+      "last_updated": 1776299679514,
       "rating": "TV-PG",
       "seasons": [
         {
@@ -530,245 +2951,8 @@
           "season_number": 5,
           "vote_average": 7.3
         }
-      ]
-    },
-    "tmdb-71124": {
-      "id": "71124",
-      "type": "tv",
-      "title": "Cooper's Treasure",
-      "poster_path": "/12ae8KreaZDuBGX5YPhG7Xh5sg6.jpg",
-      "progress": {
-        "watched": 3257.315288996632,
-        "duration": 3600
-      },
-      "last_season_watched": "2",
-      "last_episode_watched": "8",
-      "last_updated": 1772763628262,
-      "rating": "TV-14",
-      "seasons": [
-        {
-          "air_date": "2017-05-23",
-          "episode_count": 2,
-          "id": 344563,
-          "name": "Specials",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 0,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2017-04-18",
-          "episode_count": 6,
-          "id": 87157,
-          "name": "Season 1",
-          "overview": "",
-          "poster_path": "/hmSpeuG8WGAxT0NeisoCXqCL1tT.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2018-06-22",
-          "episode_count": 8,
-          "id": 105471,
-          "name": "Season 2",
-          "overview": "",
-          "poster_path": "/9DbV68x0CaG1WphED8tji9IRkMV.jpg",
-          "season_number": 2,
-          "vote_average": 0
-        }
-      ]
-    },
-    "tmdb-60603": {
-      "id": "60603",
-      "title": "The Curse of Oak Island",
-      "type": "tv",
-      "last_season_watched": "13",
-      "last_episode_watched": "21",
-      "last_updated": 1775957472313,
-      "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
-      "progress": {
-        "watched": 820.8760534898274,
-        "duration": 3600
-      },
-      "rating": "TV-PG",
-      "seasons": [
-        {
-          "air_date": "2015-11-10",
-          "episode_count": 47,
-          "id": 82094,
-          "name": "Specials",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 0,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2014-01-05",
-          "episode_count": 5,
-          "id": 59978,
-          "name": "Season 1",
-          "overview": "In 1795, three teenage boys discovered a strange, man-made depression in the ground on Oak Island–a small, wooded island just off the coast of Nova Scotia, Canada. As the boys began to dig, they found a number of intriguing artifacts. It was the end of the piracy era and rumors of buried treasure were rampant. The boys’ discovery launched a treasure hunt that has spanned more than 200 years.The search had gone dormant, but last year, Rick and Marty Lagina, two brothers from Michigan with a life-long interest in the mystery, renewed the efforts to discover the legendary treasure.",
-          "poster_path": "/8i5JvPZWkqOvpWG4BIfXdt4hY2k.jpg",
-          "season_number": 1,
-          "vote_average": 5.6
-        },
-        {
-          "air_date": "2014-11-04",
-          "episode_count": 10,
-          "id": 63381,
-          "name": "Season 2",
-          "overview": "After dating the Spanish coin they found last summer to 1652, brothers Rick and Marty Lagina return to Oak Island and the strange triangle-shaped swamp to look for more clues to this 200-year-old mystery.",
-          "poster_path": "/loTRt4yNp9JVXc7lwvtIBpyJilW.jpg",
-          "season_number": 2,
-          "vote_average": 4
-        },
-        {
-          "air_date": "2015-11-10",
-          "episode_count": 13,
-          "id": 71915,
-          "name": "Season 3",
-          "overview": "",
-          "poster_path": "/gmCBiA8x8S5PY2hMKnpq2xflCn5.jpg",
-          "season_number": 3,
-          "vote_average": 3.9
-        },
-        {
-          "air_date": "2016-11-15",
-          "episode_count": 16,
-          "id": 82053,
-          "name": "Season 4",
-          "overview": "",
-          "poster_path": "/y7x5OmZunb57kynTB4nDPFMDx6E.jpg",
-          "season_number": 4,
-          "vote_average": 4.5
-        },
-        {
-          "air_date": "2017-11-06",
-          "episode_count": 18,
-          "id": 94972,
-          "name": "Season 5",
-          "overview": "",
-          "poster_path": "/5j6BVmHbW3qZRc2YHO2VJJsatGw.jpg",
-          "season_number": 5,
-          "vote_average": 10
-        },
-        {
-          "air_date": "2018-11-12",
-          "episode_count": 22,
-          "id": 112576,
-          "name": "Season 6",
-          "overview": "",
-          "poster_path": "/o3HXPVdkDxnWHzYjb9eTaBKznVo.jpg",
-          "season_number": 6,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2019-11-04",
-          "episode_count": 23,
-          "id": 133844,
-          "name": "Season 7",
-          "overview": "",
-          "poster_path": "/5N71fLFWRsC186nMr02j0MQwMOE.jpg",
-          "season_number": 7,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2020-11-10",
-          "episode_count": 25,
-          "id": 166451,
-          "name": "Season 8",
-          "overview": "",
-          "poster_path": "/AvaGrTElZI6uGZZHrUYYlkB7ltl.jpg",
-          "season_number": 8,
-          "vote_average": 8.3
-        },
-        {
-          "air_date": "2021-11-02",
-          "episode_count": 25,
-          "id": 214695,
-          "name": "Season 9",
-          "overview": "",
-          "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
-          "season_number": 9,
-          "vote_average": 9
-        },
-        {
-          "air_date": "2022-11-15",
-          "episode_count": 25,
-          "id": 311986,
-          "name": "Season 10",
-          "overview": "Monumental tenth season. Connecting the dots one dig at a time.",
-          "poster_path": "/ioxqD0epe046x4WfOJ37KyhKxJ3.jpg",
-          "season_number": 10,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2023-11-07",
-          "episode_count": 25,
-          "id": 345856,
-          "name": "Season 11",
-          "overview": "",
-          "poster_path": "/5ErS3M9I9mlNabWnXOyrR0HmRQB.jpg",
-          "season_number": 11,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2024-11-12",
-          "episode_count": 25,
-          "id": 389039,
-          "name": "Season 12",
-          "overview": "",
-          "poster_path": "/bqiQdnwL9iBh7A4TM0EW24Ps8I3.jpg",
-          "season_number": 12,
-          "vote_average": 6.7
-        },
-        {
-          "air_date": "2025-11-04",
-          "episode_count": 24,
-          "id": 426093,
-          "name": "Season 13",
-          "overview": "",
-          "poster_path": "/aim5LNxkhkrBuv3Gya1fgRjXC8z.jpg",
-          "season_number": 13,
-          "vote_average": 6.7
-        },
-        {
-          "air_date": "2026-11-03",
-          "episode_count": 1,
-          "id": 441789,
-          "name": "Season 14",
-          "overview": "Final season",
-          "poster_path": "/7kO1xSLTg7qYR225EZ7erJmauCV.jpg",
-          "season_number": 14,
-          "vote_average": 0
-        }
-      ]
-    },
-    "tmdb-223530": {
-      "id": "223530",
-      "type": "tv",
-      "title": "Star Trek: Starfleet Academy",
-      "poster_path": "/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
-      "progress": {
-        "watched": 3434.4440534266296,
-        "duration": 3600
-      },
-      "last_season_watched": "1",
-      "last_episode_watched": "9",
-      "last_updated": 1772847516489,
-      "rating": "TV-14",
-      "seasons": [
-        {
-          "air_date": "2026-01-15",
-          "episode_count": 10,
-          "id": 334969,
-          "name": "Season 1",
-          "overview": "A young group of Starfleet cadets navigating friendships and rivalries, as well as first loves and a new enemy that poses a threat not to just the Academy, but to the Federation. And, in between all that drama, they strive to meet the standards of their exacting instructors.",
-          "poster_path": "/eOxwyGkGKq4WZCgdVlU1pr2XcCG.jpg",
-          "season_number": 1,
-          "vote_average": 5.1
-        }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-196310": {
       "id": "196310",
@@ -779,7 +2963,7 @@
       "last_updated": 1773286085230,
       "poster_path": "/rQlIu3Jdyyt1Kk0CDJ6UHx3TPFq.jpg",
       "progress": {
-        "watched": 237.52865775415967,
+        "watched": 294.90748263714977,
         "duration": 3600
       },
       "rating": "TV-PG",
@@ -794,53 +2978,8 @@
           "season_number": 1,
           "vote_average": 0
         }
-      ]
-    },
-    "tmdb-106393": {
-      "id": "106393",
-      "type": "tv",
-      "title": "Star Trek: Prodigy",
-      "poster_path": "/eUFD446HtoayV4FsXGmECXZdm7x.jpg",
-      "progress": {
-        "watched": 1430.7120448516444,
-        "duration": 3600
-      },
-      "last_season_watched": "1",
-      "last_episode_watched": "1",
-      "last_updated": 1773444389931,
-      "rating": "TV-Y7",
-      "seasons": [
-        {
-          "air_date": "2023-01-03",
-          "episode_count": 11,
-          "id": 326694,
-          "name": "Specials",
-          "overview": "",
-          "poster_path": "/ubiHq1SGVjlyQIxaavW6MP03fuC.jpg",
-          "season_number": 0,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2021-10-28",
-          "episode_count": 19,
-          "id": 157144,
-          "name": "Season 1",
-          "overview": "After discovering an abandoned Starfleet ship, a ragtag crew of young adventurers unites to explore the galaxy and evade a ruthless overlord.",
-          "poster_path": "/qiIHiqCwVu5SGa7Fkg0AVZkRGSR.jpg",
-          "season_number": 1,
-          "vote_average": 7.6
-        },
-        {
-          "air_date": "2024-07-01",
-          "episode_count": 20,
-          "id": 385286,
-          "name": "Season 2",
-          "overview": "Now Starfleet trainees, Dal and his friends embark on another adventure to solve the mystery of the Protostar and save a planet from destruction.",
-          "poster_path": "/hUzSjQYNZ1T0yiKDTzvxsTJR4of.jpg",
-          "season_number": 2,
-          "vote_average": 7.5
-        }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-74313": {
       "id": "74313",
@@ -851,7 +2990,7 @@
       "last_updated": 1773470443911,
       "poster_path": "/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg",
       "progress": {
-        "watched": 830.2611069901135,
+        "watched": 1222.8071305141227,
         "duration": 3600
       },
       "rating": "TV-G",
@@ -876,57 +3015,364 @@
           "season_number": 1,
           "vote_average": 8.2
         }
-      ]
+      ],
+      "show_progress": {}
     },
-    "tmdb-202411": {
-      "id": "202411",
+    "tmdb-87878": {
+      "id": "87878",
+      "title": "Blue Planet UK",
       "type": "tv",
-      "title": "Monarch: Legacy of Monsters",
-      "poster_path": "/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-      "progress": {
-        "watched": 535.3384124121179,
-        "duration": 3600
-      },
-      "last_season_watched": "2",
-      "last_episode_watched": "8",
-      "last_updated": 1775961316843,
-      "rating": "TV-14",
-      "seasons": [
-        {
-          "air_date": "2023-11-15",
-          "episode_count": 10,
-          "id": 294443,
-          "name": "Season 1",
-          "overview": "In season one, two siblings look to uncover their family's connection to the secretive organization known as Monarch. Clues lead them into the world of monsters and ultimately down the rabbit hole to Army officer Lee Shaw, taking place in the 1950s and half a century later where Monarch is threatened by what Shaw knows.",
-          "poster_path": "/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
-          "season_number": 1,
-          "vote_average": 7.1
-        },
-        {
-          "air_date": "2026-02-26",
-          "episode_count": 10,
-          "id": 484723,
-          "name": "Season 2",
-          "overview": "Season two picks up with the fate of Monarch — and the world — hanging in the balance. Buried secrets are revealed that reunite our heroes (and villains) on Kong's Skull Island, and a new, mysterious village where a mythical Titan rises from the sea. The ripple effects of the past make waves in the present day, blurring the bonds between family, friend and foe — all with the threat of a Titan event on the horizon.",
-          "poster_path": "/garCCMokkC9TbzmOGPvFTqpRD2C.jpg",
-          "season_number": 2,
-          "vote_average": 7.4
-        }
-      ]
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1773460477317
     },
-    "tmdb-10153": {
-      "id": "10153",
-      "title": "Sphere",
+    "tmdb-950387": {
+      "id": "950387",
       "type": "movie",
-      "last_updated": 1774883266212,
-      "poster_path": "/reR7C7EYe3DiHm5OYpA0ACUMDld.jpg",
+      "title": "A Minecraft Movie",
+      "poster_path": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
       "progress": {
-        "watched": 3270.695698337459,
+        "watched": 970.8989732287553,
         "duration": 3600
       },
       "last_season_watched": "1",
       "last_episode_watched": "1",
+      "last_updated": 1773524736611,
+      "rating": "PG"
+    },
+    "tmdb-1114894": {
+      "id": "1114894",
+      "type": "movie",
+      "title": "Star Trek: Section 31",
+      "poster_path": "/fNu6P4jYU55Cb3CC2SndtAKvois.jpg",
+      "progress": {
+        "watched": 385.2216337476732,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1773800731550,
       "rating": "PG-13"
+    },
+    "tmdb-131033": {
+      "id": "131033",
+      "type": "tv",
+      "title": "Krapopolis",
+      "poster_path": "/9hv6mEAC6NChxNaUIshUN09Yk38.jpg",
+      "progress": {
+        "watched": 2974.1145764315006,
+        "duration": 3600
+      },
+      "last_season_watched": "3",
+      "last_episode_watched": "9",
+      "last_updated": 1775251124763,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2023-09-24",
+          "episode_count": 23,
+          "id": 205604,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/zlHfCPWV1tML7V09hbHvt2javwy.jpg",
+          "season_number": 1,
+          "vote_average": 6.8
+        },
+        {
+          "air_date": "2024-09-29",
+          "episode_count": 22,
+          "id": 402823,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/ArN0WSYcRVuYsDJXam4LSFNaexv.jpg",
+          "season_number": 2,
+          "vote_average": 2.8
+        },
+        {
+          "air_date": "2025-09-28",
+          "episode_count": 13,
+          "id": 467355,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/qHTMXl995h80cs2BiGPFrk1WmsO.jpg",
+          "season_number": 3,
+          "vote_average": 4.6
+        }
+      ]
+    },
+    "tmdb-1234731": {
+      "id": "1234731",
+      "type": "movie",
+      "title": "Anaconda",
+      "poster_path": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
+      "progress": {
+        "watched": 582.8651490075347,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1774750720123,
+      "rating": "PG-13"
+    },
+    "tmdb-13063": {
+      "id": "13063",
+      "type": "movie",
+      "title": "Cannibal! The Musical",
+      "poster_path": "/mX5UM9Fhp9tfQ6VXXO9cUWKPCRK.jpg",
+      "progress": {
+        "watched": 1994.5106380681384,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1774759198347,
+      "rating": "R"
+    },
+    "tmdb-7961": {
+      "id": "7961",
+      "title": "TekWar",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "2",
+      "last_updated": 1776322978524,
+      "poster_path": "/95tsFJksRh263dvL8PIOCIvU64J.jpg",
+      "progress": {
+        "watched": 2572.7900534246746,
+        "duration": 3600
+      },
+      "rating": "12",
+      "seasons": [
+        {
+          "air_date": "1994-12-22",
+          "episode_count": 18,
+          "id": 18050,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/arNHmzJaNeudADjHmOb9NYTC5Vb.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-60867": {
+      "id": "60867",
+      "type": "tv",
+      "title": "Ex on the Beach",
+      "poster_path": "/adCkFsWQKt0yBWFGCYsmdY77Tp6.jpg",
+      "progress": {
+        "watched": 3354.7044190101215,
+        "duration": 3600
+      },
+      "last_season_watched": "9",
+      "last_episode_watched": "1",
+      "last_updated": 1776133873449,
+      "rating": "16",
+      "seasons": [
+        {
+          "air_date": "2014-04-22",
+          "episode_count": 8,
+          "id": 60942,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/73eYX0jSl1vUcZJK1K8sS3fvTZx.jpg",
+          "season_number": 1,
+          "vote_average": 4.1
+        },
+        {
+          "air_date": "2015-01-27",
+          "episode_count": 8,
+          "id": 64750,
+          "name": "Season 2",
+          "overview": "Ex On The Beach Series 2 guarantees even more mystery surrounding who will appear on the beach, but this time it’s not whose, but which ex is next. Introducing the Bunny Boiler, the One That Got Away and the Ball Breaker to name a few, all turning up all with very different motives! Some set out to exact revenge, others will be hoping to win their ex back, and some will just want to cause chaos and turn their exes dream holiday upside down. Life really can be a right beach sometimes.",
+          "poster_path": "/vJC311YWsFoXvh2RpztwVy8PIQP.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2015-08-11",
+          "episode_count": 10,
+          "id": 70415,
+          "name": "Season 3",
+          "overview": "MTV's hit TV show with a nasty twist is back! Ex On The Beach sees eight sexy singles on a beach holiday of their dreams. But for some this getaway quickly becomes a living nightmare when their crazy CELEBRITY EX appears from their waves to ruin their life!",
+          "poster_path": "/AfJjpgijbsHEdFLWn8n52Pe6XKC.jpg",
+          "season_number": 3,
+          "vote_average": 10
+        },
+        {
+          "air_date": "2016-01-19",
+          "episode_count": 8,
+          "id": 73995,
+          "name": "Season 4",
+          "overview": "Get ready for sun, sea and lots of sex as Ex On The Beach Season 4 returns! This time nowhere on the island paradise is safe as the sexy singles will be even more clueless about who the tablet of terror will summon to settle the scores on the beachy shores. What can our sexy singles expect? The unEXpected of course. This season’s castaways feature some familiar faces with King and Queen of Ex On The Beach Season 3 – Jordan and Megan McKenna AKA “JEGAN” – returning to the villa. Will their relationship sink or sail off into the sunset… Also the island beauties won’t know what’s hit them when a storm from the North East of England hits them in the form of a tornado from Tyneside; Geordie Shore’s very own top shagger, Scotty T.",
+          "poster_path": "/uo5I87g2lYC5pwl63gjl7CRjrV8.jpg",
+          "season_number": 4,
+          "vote_average": 6.3
+        },
+        {
+          "air_date": "2016-08-16",
+          "episode_count": 10,
+          "id": 79279,
+          "name": "Season 5",
+          "overview": "Hold onto your bikinis! Ex On the Beach is back for the most controversial and dramatic series ever. The action this time takes place in Thailand where not one, but 13, ex-Ex On The Beach cast members have been reunited for a holiday from Hell. Each sexy celebrity single is armed with their own motive for returning. Whether it's to resolve unfinished business, exacting revenge or to simply just stir things up, this series is set to be the most EX-plosive EVER. It’s safe to say there will be lots of trouble in paradise resulting in one very messy and enthralling web of love and lies. Thailand watch out. It's going to be one Hell of a ride!",
+          "poster_path": "/vqqijNEww40WaQFqjt6hBLJ5eBo.jpg",
+          "season_number": 5,
+          "vote_average": 0.5
+        },
+        {
+          "air_date": "2017-01-17",
+          "episode_count": 10,
+          "id": 84006,
+          "name": "Season 6",
+          "overview": "The bitchiest beach is back! Eight new, honed hotties are once again shipped to a beautiful bit of Greek paradise. In this series, our sexy singles will be confronted by some of the fieriest exes yet, proving that some relationships just won’t die... As always, there will be a multitude of crazy bombshells, plus a couple of familiar faces who have already had their fair share of dramas on your TV screens. That’s right, we have some of reality TV’s finest personalities about to grace the island. Expect the un-expected!",
+          "poster_path": "/iwIGRvPipelDV6lmOI6DU8pJFzU.jpg",
+          "season_number": 6,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2017-06-20",
+          "episode_count": 10,
+          "id": 89733,
+          "name": "Season 7",
+          "overview": "Sexy singles arrive at a Bali beach paradise only to discover that they are on Ex On The Beach and they are about to be confronted with the ghosts of their past.",
+          "poster_path": "/aH3D9pSBbMNGbQ5iIuLwt8FZjDz.jpg",
+          "season_number": 7,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2018-03-20",
+          "episode_count": 8,
+          "id": 101104,
+          "name": "Season 8",
+          "overview": "",
+          "poster_path": "/zVoFmZ94uS80Q6GpFw1BpOwTa6z.jpg",
+          "season_number": 8,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2018-08-15",
+          "episode_count": 12,
+          "id": 107966,
+          "name": "Season 9",
+          "overview": "",
+          "poster_path": "/2wVz0BamIKE4uq7ijNNPqWoKnzN.jpg",
+          "season_number": 9,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2023-05-09",
+          "episode_count": 10,
+          "id": 342211,
+          "name": "The One That Got",
+          "overview": "",
+          "poster_path": "/adCkFsWQKt0yBWFGCYsmdY77Tp6.jpg",
+          "season_number": 11,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-219946": {
+      "id": "219946",
+      "title": "Ex on the Beach: Sweden",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1776133961442
+    },
+    "tmdb-283470": {
+      "id": "283470",
+      "title": "Ex on the Beach France",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1776133990303
+    },
+    "tmdb-221739": {
+      "id": "221739",
+      "title": "Ex on the Beach Suomi",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1776133999422
+    },
+    "tmdb-205367": {
+      "id": "205367",
+      "title": "Ex na plaży Polska",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1776134009497
+    },
+    "tmdb-67607": {
+      "id": "67607",
+      "title": "Ex on the Beach: Double Dutch",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1776134023486
+    },
+    "tmdb-214686": {
+      "id": "214686",
+      "title": "Ex on the Beach: Caribbean",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1776134047285
+    },
+    "tmdb-98996": {
+      "id": "98996",
+      "title": "Celebrity Ex on the Beach",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1776134265376,
+      "poster_path": "/gTCEOL22bvnmbiJowkURw5EeNxn.jpg",
+      "progress": {
+        "watched": 793.7580260554332,
+        "duration": 3600
+      },
+      "rating": "15",
+      "seasons": [
+        {
+          "air_date": "2020-01-21",
+          "episode_count": 15,
+          "id": 142631,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/7iBwXAqp8KXA1Ebp2KqzllEe70W.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2022-02-15",
+          "episode_count": 12,
+          "id": 244326,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/cepj7jzG3Aup5B0AfX4AaZUOH6q.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2024-03-19",
+          "episode_count": 10,
+          "id": 378989,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/pVomgYqNUPL8z8NY4Qe7rqNXdR1.jpg",
+          "season_number": 3,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2026-03-31",
+          "episode_count": 3,
+          "id": 506039,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/gTCEOL22bvnmbiJowkURw5EeNxn.jpg",
+          "season_number": 4,
+          "vote_average": 0
+        }
+      ]
     },
     "tmdb-62705": {
       "id": "62705",
@@ -939,7 +3385,7 @@
       },
       "last_season_watched": "13",
       "last_episode_watched": "39",
-      "last_updated": 1776147721582,
+      "last_updated": 1776296815545,
       "rating": "M",
       "seasons": [
         {
@@ -1082,7 +3528,107 @@
           "season_number": 13,
           "vote_average": 9.2
         }
-      ]
+      ],
+      "show_progress": {}
+    },
+    "tmdb-220150": {
+      "id": "220150",
+      "title": "Pokémon Horizons",
+      "type": "anime",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1766601268215,
+      "poster_path": "/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+      "progress": {
+        "watched": 1363.9816413246679,
+        "duration": 3600
+      },
+      "rating": "TV-Y7",
+      "seasons": [
+        {
+          "air_date": "2024-01-05",
+          "episode_count": 1,
+          "id": 371525,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2023-04-14",
+          "episode_count": 125,
+          "id": 328311,
+          "name": "Series 1",
+          "overview": "A new adventure is beginning within the wide world of Pokémon! Arriving at Indigo Academy, a little girl named Liko receives her first partner Pokémon, Sprigatito. But she soon finds herself pursued by the Explorers, a mysterious group that's determined to take the pendant necklace she wears. Liko isn't on her own, though, as Friede, Captain Pikachu, and the other Rising Volt Tacklers offer her protection aboard their airship. Meanwhile, a young boy named Roy dreams of becoming a Pokémon Trainer, unaware of the secret hiding within the Ancient Poké Ball he carries. As Liko, Roy, and the Rising Volt Tacklers set sail for new horizons, what kind of discoveries await?",
+          "poster_path": "/1tfB5JQ0Zij0QbJMkO8yWjo5sZO.jpg",
+          "season_number": 1,
+          "vote_average": 9.6
+        }
+      ],
+      "show_progress": {}
+    },
+    "tmdb-106393": {
+      "id": "106393",
+      "type": "tv",
+      "title": "Star Trek: Prodigy",
+      "poster_path": "/eUFD446HtoayV4FsXGmECXZdm7x.jpg",
+      "progress": {
+        "watched": 1430.7120448516444,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1773444389931,
+      "rating": "TV-Y7",
+      "seasons": [
+        {
+          "air_date": "2023-01-03",
+          "episode_count": 11,
+          "id": 326694,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/ubiHq1SGVjlyQIxaavW6MP03fuC.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2021-10-28",
+          "episode_count": 19,
+          "id": 157144,
+          "name": "Season 1",
+          "overview": "After discovering an abandoned Starfleet ship, a ragtag crew of young adventurers unites to explore the galaxy and evade a ruthless overlord.",
+          "poster_path": "/qiIHiqCwVu5SGa7Fkg0AVZkRGSR.jpg",
+          "season_number": 1,
+          "vote_average": 7.6
+        },
+        {
+          "air_date": "2024-07-01",
+          "episode_count": 20,
+          "id": 385286,
+          "name": "Season 2",
+          "overview": "Now Starfleet trainees, Dal and his friends embark on another adventure to solve the mystery of the Protostar and save a planet from destruction.",
+          "poster_path": "/hUzSjQYNZ1T0yiKDTzvxsTJR4of.jpg",
+          "season_number": 2,
+          "vote_average": 7.5
+        }
+      ],
+      "show_progress": {}
+    },
+    "tmdb-10153": {
+      "id": "10153",
+      "title": "Sphere",
+      "type": "movie",
+      "last_updated": 1774883266212,
+      "poster_path": "/reR7C7EYe3DiHm5OYpA0ACUMDld.jpg",
+      "progress": {
+        "watched": 3270.695698337459,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "rating": "PG-13",
+      "show_progress": {}
     }
   }
 }
