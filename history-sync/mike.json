@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1776705295527,
+  "updated_at": 1776716817188,
   "history": {
     "tmdb-220150": {
       "id": "220150",
@@ -1182,7 +1182,8 @@
           "season_number": 6,
           "vote_average": 0
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-259819": {
       "id": "259819",
@@ -1208,7 +1209,8 @@
           "season_number": 1,
           "vote_average": 6.7
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-12971": {
       "id": "12971",
@@ -1324,7 +1326,8 @@
           "season_number": 9,
           "vote_average": 7.9
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-213402": {
       "id": "213402",
@@ -1354,7 +1357,8 @@
       "episodeWatchHistory": {
         "S1E2": 1765127297586
       },
-      "release_date": "2023-01-11"
+      "release_date": "2023-01-11",
+      "show_progress": {}
     },
     "tmdb-131378": {
       "id": "131378",
@@ -1395,7 +1399,8 @@
       "episodeWatchHistory": {
         "S2E6": 1765173893092,
         "S2E7": 1765165409949
-      }
+      },
+      "show_progress": {}
     },
     "tmdb-76300": {
       "id": "76300",
@@ -1478,7 +1483,8 @@
         "S1E3": 1765146291395,
         "S1E4": 1765146299009
       },
-      "release_date": "2018-01-11"
+      "release_date": "2018-01-11",
+      "show_progress": {}
     },
     "tmdb-68810": {
       "id": "68810",
@@ -1492,7 +1498,8 @@
       "last_season_watched": "1",
       "last_episode_watched": "1",
       "last_updated": 1765173059957,
-      "rating": "12"
+      "rating": "12",
+      "show_progress": {}
     },
     "tmdb-212633": {
       "id": "212633",
@@ -1547,7 +1554,8 @@
         "S3E6": 1765201327658,
         "S3E7": 1765203185505,
         "S3E8": 1765328341305
-      }
+      },
+      "show_progress": {}
     },
     "tmdb-1966": {
       "id": "1966",
@@ -2183,7 +2191,8 @@
           "season_number": 61,
           "vote_average": 0
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-63555": {
       "id": "63555",
@@ -2229,7 +2238,8 @@
           "season_number": 3,
           "vote_average": 0
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-246462": {
       "id": "246462",
@@ -2265,7 +2275,8 @@
           "season_number": 2,
           "vote_average": 0
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-107484": {
       "id": "107484",
@@ -2277,8 +2288,8 @@
         "duration": 3600
       },
       "last_season_watched": "2",
-      "last_episode_watched": "2",
-      "last_updated": 1771704212893,
+      "last_episode_watched": "6",
+      "last_updated": 1776712971220,
       "rating": "12",
       "seasons": [
         {
@@ -2331,7 +2342,8 @@
           "season_number": 4,
           "vote_average": 7.7
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-4414": {
       "id": "4414",
@@ -2417,7 +2429,8 @@
           "season_number": 6,
           "vote_average": 4.5
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-33168": {
       "id": "33168",
@@ -2463,7 +2476,8 @@
           "season_number": 3,
           "vote_average": 0
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-88386": {
       "id": "88386",
@@ -2499,7 +2513,8 @@
           "season_number": 2,
           "vote_average": 0
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-55600": {
       "id": "55600",
@@ -2555,7 +2570,8 @@
           "season_number": 4,
           "vote_average": 0
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-62247": {
       "id": "62247",
@@ -2711,7 +2727,8 @@
           "season_number": 13,
           "vote_average": 7.7
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-61413": {
       "id": "61413",
@@ -2767,7 +2784,8 @@
           "season_number": 3,
           "vote_average": 7.8
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-103776": {
       "id": "103776",
@@ -2803,7 +2821,8 @@
           "season_number": 2,
           "vote_average": 0
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-3562": {
       "id": "3562",
@@ -3359,7 +3378,8 @@
           "season_number": 53,
           "vote_average": 7
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-153347": {
       "id": "153347",
@@ -3384,7 +3404,8 @@
           "season_number": 1,
           "vote_average": 7.8
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-87878": {
       "id": "87878",
@@ -3392,7 +3413,8 @@
       "type": "tv",
       "last_season_watched": "1",
       "last_episode_watched": "1",
-      "last_updated": 1773460477317
+      "last_updated": 1773460477317,
+      "show_progress": {}
     },
     "tmdb-950387": {
       "id": "950387",
@@ -3406,7 +3428,8 @@
       "last_season_watched": "1",
       "last_episode_watched": "1",
       "last_updated": 1773524736611,
-      "rating": "PG"
+      "rating": "PG",
+      "show_progress": {}
     },
     "tmdb-1114894": {
       "id": "1114894",
@@ -3420,7 +3443,8 @@
       "last_season_watched": "1",
       "last_episode_watched": "1",
       "last_updated": 1773800731550,
-      "rating": "PG-13"
+      "rating": "PG-13",
+      "show_progress": {}
     },
     "tmdb-131033": {
       "id": "131033",
@@ -3466,7 +3490,8 @@
           "season_number": 3,
           "vote_average": 4.6
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-1234731": {
       "id": "1234731",
@@ -3480,7 +3505,8 @@
       "last_season_watched": "1",
       "last_episode_watched": "1",
       "last_updated": 1774750720123,
-      "rating": "PG-13"
+      "rating": "PG-13",
+      "show_progress": {}
     },
     "tmdb-13063": {
       "id": "13063",
@@ -3494,7 +3520,8 @@
       "last_season_watched": "1",
       "last_episode_watched": "1",
       "last_updated": 1774759198347,
-      "rating": "R"
+      "rating": "R",
+      "show_progress": {}
     },
     "tmdb-7961": {
       "id": "7961",
@@ -3520,7 +3547,8 @@
           "season_number": 1,
           "vote_average": 0
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-60867": {
       "id": "60867",
@@ -3636,7 +3664,8 @@
           "season_number": 11,
           "vote_average": 0
         }
-      ]
+      ],
+      "show_progress": {}
     },
     "tmdb-219946": {
       "id": "219946",
@@ -3644,7 +3673,8 @@
       "type": "tv",
       "last_season_watched": "1",
       "last_episode_watched": "1",
-      "last_updated": 1776133961442
+      "last_updated": 1776133961442,
+      "show_progress": {}
     },
     "tmdb-283470": {
       "id": "283470",
@@ -3652,7 +3682,8 @@
       "type": "tv",
       "last_season_watched": "1",
       "last_episode_watched": "1",
-      "last_updated": 1776133990303
+      "last_updated": 1776133990303,
+      "show_progress": {}
     },
     "tmdb-221739": {
       "id": "221739",
@@ -3660,7 +3691,8 @@
       "type": "tv",
       "last_season_watched": "1",
       "last_episode_watched": "1",
-      "last_updated": 1776133999422
+      "last_updated": 1776133999422,
+      "show_progress": {}
     },
     "tmdb-205367": {
       "id": "205367",
@@ -3668,15 +3700,8 @@
       "type": "tv",
       "last_season_watched": "1",
       "last_episode_watched": "1",
-      "last_updated": 1776134009497
-    },
-    "tmdb-67607": {
-      "id": "67607",
-      "title": "Ex on the Beach: Double Dutch",
-      "type": "tv",
-      "last_season_watched": "1",
-      "last_episode_watched": "1",
-      "last_updated": 1776134023486
+      "last_updated": 1776134009497,
+      "show_progress": {}
     },
     "tmdb-214686": {
       "id": "214686",
@@ -3684,7 +3709,8 @@
       "type": "tv",
       "last_season_watched": "1",
       "last_episode_watched": "1",
-      "last_updated": 1776134047285
+      "last_updated": 1776705303489,
+      "show_progress": {}
     },
     "tmdb-98996": {
       "id": "98996",
@@ -3737,6 +3763,82 @@
           "name": "Season 4",
           "overview": "",
           "poster_path": "/gTCEOL22bvnmbiJowkURw5EeNxn.jpg",
+          "season_number": 4,
+          "vote_average": 0
+        }
+      ],
+      "show_progress": {}
+    },
+    "tmdb-67607": {
+      "id": "67607",
+      "title": "Ex on the Beach: Double Dutch",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1776705318176,
+      "show_progress": {}
+    },
+    "tmdb-52268": {
+      "id": "52268",
+      "type": "tv",
+      "title": "Man Down",
+      "poster_path": "/s00xvEkk6cTuZdHPvxght2ZR3JJ.jpg",
+      "progress": {
+        "watched": 3194.6644118446566,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1776716806625,
+      "rating": "TV-MA",
+      "seasons": [
+        {
+          "air_date": "2013-12-25",
+          "episode_count": 2,
+          "id": 72923,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/8cvY5YNLsPiSzDvoACNXqZR9VIZ.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2013-10-18",
+          "episode_count": 6,
+          "id": 64168,
+          "name": "Series 1",
+          "overview": "A childish idiot trapped in an adult's body, schoolteacher Dan hates his job, hates his girlfriend-less life and has good reason to fear his dad.",
+          "poster_path": "/aknzWpNGfQIZTZbiHtnuHVEFLwY.jpg",
+          "season_number": 1,
+          "vote_average": 7.2
+        },
+        {
+          "air_date": "2015-06-01",
+          "episode_count": 6,
+          "id": 64169,
+          "name": "Series 2",
+          "overview": "Concluding that he must change and grow, Dan embarks on a mission of self-improvement ... one that is not an unqualified success.",
+          "poster_path": "/cDwgalpC1uCJMF7ArsVPggItGRM.jpg",
+          "season_number": 2,
+          "vote_average": 7.9
+        },
+        {
+          "air_date": "2016-07-13",
+          "episode_count": 6,
+          "id": 78452,
+          "name": "Series 3",
+          "overview": "At a crossroads in life, Dan struggles with an increasingly fraught work environment and may soon lose the job he despises.",
+          "poster_path": "/2uODcR15Dz96V5HXO3zatfa06Rp.jpg",
+          "season_number": 3,
+          "vote_average": 7.8
+        },
+        {
+          "air_date": "2017-10-25",
+          "episode_count": 6,
+          "id": 113653,
+          "name": "Series 4",
+          "overview": "After quitting his teaching position, disaster-prone child-man Dan becomes a father and desperately tries to embrace his new role as head of a family.",
+          "poster_path": "/AtOhdvKYtI1Fja7ebJJB0qQtgVl.jpg",
           "season_number": 4,
           "vote_average": 0
         }
