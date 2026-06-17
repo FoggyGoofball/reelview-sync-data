@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1776716817188,
+  "updated_at": 1781664961962,
   "history": {
     "tmdb-220150": {
       "id": "220150",
@@ -367,12 +367,12 @@
       "id": "655",
       "title": "Star Trek: The Next Generation",
       "type": "tv",
-      "last_season_watched": "4",
-      "last_episode_watched": "14",
-      "last_updated": 1776083622776,
+      "last_season_watched": "5",
+      "last_episode_watched": "22",
+      "last_updated": 1781593084956,
       "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
       "progress": {
-        "watched": 251.33311893304287,
+        "watched": 1661.5627537999617,
         "duration": 3600
       },
       "rating": "TV-PG",
@@ -403,7 +403,7 @@
           "id": 1990,
           "name": "Season 2",
           "overview": "In season two, the Enterprise continues on its journey across the galaxy with the birth of a new member. Picard once again leads the team as unknown civilizations take notice of the ship and wishes to know more about the crew and their operations. Riker struggles with his loyalty to the Enterprise as his life is threatened and Data tries to become more human to understand his role upon the Enterprise. This season looks closer into the relationship of man vs. machine as Q once again tries to test Picard against a new enemy. The Ferengi threatens the Enterprise and the mystery of the holodeck pits the crew against the clock as lives hang in the balance.",
-          "poster_path": "/3recmOpquLOM31YOvVNQlR6U94H.jpg",
+          "poster_path": "/loEm9G60HHZsx2mkIZnTP4pvaME.jpg",
           "season_number": 2,
           "vote_average": 6.6
         },
@@ -423,7 +423,7 @@
           "id": 1991,
           "name": "Season 4",
           "overview": "As Riker tries to save the Enterprise and the Earth from a powerful alien race, Captain Picard's life hangs in the balance. The crew faces their own demons and must overcome their own obstacles to continue their mission. This leads Data to return to his creator to better understand emotions. Worf must accept his Klingon heritage and face his former family. A power struggle threatens the Federation as the Romulans try to make peace with their universe and the Klingons deal with a potential successor to their empire. Political relations are strained within the Enterprise as a rogue ship attacks former enemies of the Federation, ultimately leading up to a civil war where one member of the Enterprise must decide where his loyalty lies.",
-          "poster_path": "/x56cmiHHvKIDRBHSTUohNYxtDHS.jpg",
+          "poster_path": "/wunEaBAdJ9gmAMV7CsMrK8qyAaa.jpg",
           "season_number": 4,
           "vote_average": 7.1
         },
@@ -589,11 +589,11 @@
       "title": "The Curse of Oak Island",
       "type": "tv",
       "last_season_watched": "13",
-      "last_episode_watched": "21",
-      "last_updated": 1775957472313,
+      "last_episode_watched": "25",
+      "last_updated": 1779938702979,
       "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
       "progress": {
-        "watched": 930.4962566624513,
+        "watched": 2658.9722724898384,
         "duration": 3600
       },
       "rating": "TV-PG",
@@ -730,13 +730,13 @@
         },
         {
           "air_date": "2025-11-04",
-          "episode_count": 24,
+          "episode_count": 25,
           "id": 426093,
           "name": "Season 13",
           "overview": "",
           "poster_path": "/aim5LNxkhkrBuv3Gya1fgRjXC8z.jpg",
           "season_number": 13,
-          "vote_average": 6.7
+          "vote_average": 6.9
         },
         {
           "air_date": "2026-11-03",
@@ -744,7 +744,7 @@
           "id": 441789,
           "name": "Season 14",
           "overview": "Final season",
-          "poster_path": "/7kO1xSLTg7qYR225EZ7erJmauCV.jpg",
+          "poster_path": "/dS4FcF9uzZ8dSjmyTJp2lyqg8t9.jpg",
           "season_number": 14,
           "vote_average": 0
         }
@@ -899,8 +899,8 @@
         "duration": 3600
       },
       "last_season_watched": "2",
-      "last_episode_watched": "8",
-      "last_updated": 1775961316843,
+      "last_episode_watched": "10",
+      "last_updated": 1777599640655,
       "rating": "TV-14",
       "seasons": [
         {
@@ -911,7 +911,7 @@
           "overview": "In season one, two siblings look to uncover their family's connection to the secretive organization known as Monarch. Clues lead them into the world of monsters and ultimately down the rabbit hole to Army officer Lee Shaw, taking place in the 1950s and half a century later where Monarch is threatened by what Shaw knows.",
           "poster_path": "/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
           "season_number": 1,
-          "vote_average": 7.1
+          "vote_average": 7.2
         },
         {
           "air_date": "2026-02-26",
@@ -921,7 +921,7 @@
           "overview": "Season two picks up with the fate of Monarch — and the world — hanging in the balance. Buried secrets are revealed that reunite our heroes (and villains) on Kong's Skull Island, and a new, mysterious village where a mythical Titan rises from the sea. The ripple effects of the past make waves in the present day, blurring the bonds between family, friend and foe — all with the threat of a Titan event on the horizon.",
           "poster_path": "/garCCMokkC9TbzmOGPvFTqpRD2C.jpg",
           "season_number": 2,
-          "vote_average": 7.4
+          "vote_average": 7.7
         }
       ],
       "show_progress": {}
@@ -1104,12 +1104,12 @@
       "title": "Mystery at Blind Frog Ranch",
       "poster_path": "/1zSAWZ8LVD3oOmWV8d9PtM6931Y.jpg",
       "progress": {
-        "watched": 2338.3979599172694,
+        "watched": 2878.231064848531,
         "duration": 3600
       },
-      "last_season_watched": "1",
-      "last_episode_watched": "2",
-      "last_updated": 1776700090200,
+      "last_season_watched": "6",
+      "last_episode_watched": "3",
+      "last_updated": 1781322578355,
       "rating": "TV-PG",
       "seasons": [
         {
@@ -1173,14 +1173,14 @@
           "vote_average": 0
         },
         {
-          "air_date": null,
-          "episode_count": 2,
+          "air_date": "2026-05-27",
+          "episode_count": 4,
           "id": 501433,
           "name": "Season 6",
           "overview": "",
           "poster_path": null,
           "season_number": 6,
-          "vote_average": 0
+          "vote_average": 10
         }
       ],
       "show_progress": {}
@@ -1408,14 +1408,24 @@
       "title": "Love After Lockup",
       "poster_path": "/e3OgnW4ov16XueR5FxVzaFy7d4U.jpg",
       "progress": {
-        "watched": 15,
+        "watched": 2088.7622396120382,
         "duration": 3600
       },
-      "last_season_watched": "1",
-      "last_episode_watched": "3",
-      "last_updated": 1765146308123,
+      "last_season_watched": "7",
+      "last_episode_watched": "8",
+      "last_updated": 1779673072128,
       "rating": "TV-14",
       "seasons": [
+        {
+          "air_date": "2018-10-19",
+          "episode_count": 7,
+          "id": 143471,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0,
+          "vote_average": 0
+        },
         {
           "air_date": "2018-01-11",
           "episode_count": 7,
@@ -1468,12 +1478,22 @@
         },
         {
           "air_date": "2025-03-21",
-          "episode_count": 21,
+          "episode_count": 20,
           "id": 444107,
           "name": "Season 6",
           "overview": "",
           "poster_path": null,
           "season_number": 6,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2026-01-16",
+          "episode_count": 8,
+          "id": 492320,
+          "name": "Season 7",
+          "overview": "An all new season of Love After Lockup starts January 16, 2026!",
+          "poster_path": null,
+          "season_number": 7,
           "vote_average": 0
         }
       ],
@@ -3784,12 +3804,12 @@
       "title": "Man Down",
       "poster_path": "/s00xvEkk6cTuZdHPvxght2ZR3JJ.jpg",
       "progress": {
-        "watched": 3194.6644118446566,
+        "watched": 3577.4570442090867,
         "duration": 3600
       },
-      "last_season_watched": "1",
-      "last_episode_watched": "1",
-      "last_updated": 1776716806625,
+      "last_season_watched": "3",
+      "last_episode_watched": "3",
+      "last_updated": 1779736032510,
       "rating": "TV-MA",
       "seasons": [
         {
@@ -3841,6 +3861,387 @@
           "poster_path": "/AtOhdvKYtI1Fja7ebJJB0qQtgVl.jpg",
           "season_number": 4,
           "vote_average": 0
+        }
+      ],
+      "show_progress": {}
+    },
+    "tmdb-34014": {
+      "id": "34014",
+      "title": "An Idiot Abroad",
+      "type": "tv",
+      "last_season_watched": "1",
+      "last_episode_watched": "3",
+      "last_updated": 1779735824178,
+      "poster_path": "/4gTU5vFGhyxOoMrJGXvNJS1gRNM.jpg",
+      "progress": {
+        "watched": 1226.9964596967147,
+        "duration": 3600
+      },
+      "rating": "TV-MA",
+      "seasons": [
+        {
+          "air_date": "2010-09-05",
+          "episode_count": 45,
+          "id": 44812,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/6k1rabxjmW3hNTS8Kx5S5efRrtY.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2010-09-23",
+          "episode_count": 8,
+          "id": 44813,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/xLjWyB5JwUVFu2i6IaIWt7phDfL.jpg",
+          "season_number": 1,
+          "vote_average": 8.1
+        },
+        {
+          "air_date": "2011-09-23",
+          "episode_count": 8,
+          "id": 44814,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/6qIs7c9TyUCPsWgpspGIwS6GQFM.jpg",
+          "season_number": 2,
+          "vote_average": 8.1
+        },
+        {
+          "air_date": "2012-11-30",
+          "episode_count": 3,
+          "id": 44815,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/zkwW3sj5aWrN1n2XnrHpziWEU5M.jpg",
+          "season_number": 3,
+          "vote_average": 8.5
+        }
+      ]
+    },
+    "tmdb-275106": {
+      "id": "275106",
+      "type": "tv",
+      "title": "Expedition Files",
+      "poster_path": "/x2F9ugSeppR0VZIyVt82JzVJqFM.jpg",
+      "progress": {
+        "watched": 675.7580394559287,
+        "duration": 3600
+      },
+      "last_season_watched": "3",
+      "last_episode_watched": "4",
+      "last_updated": 1781488566197,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2024-10-30",
+          "episode_count": 6,
+          "id": 425265,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/9UZDySaVEWkJf8W65DtLimUDBG5.jpg",
+          "season_number": 1,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2025-04-16",
+          "episode_count": 6,
+          "id": 447213,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/2S5xj0fKd5XxH7FB242tnXPr16d.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2025-11-05",
+          "episode_count": 8,
+          "id": 483559,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/fUhxPHs7wXYkrwEltwfSp9GDIGs.jpg",
+          "season_number": 3,
+          "vote_average": 7.3
+        },
+        {
+          "air_date": "2026-04-01",
+          "episode_count": 12,
+          "id": 507940,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/iz3u4BpN8Q6FjlluVCSgmOwvIBX.jpg",
+          "season_number": 4,
+          "vote_average": 10
+        }
+      ]
+    },
+    "tmdb-101359": {
+      "id": "101359",
+      "type": "tv",
+      "title": "The Secret of Skinwalker Ranch",
+      "poster_path": "/j8PpovebgIhrt89AQVvkogcX34v.jpg",
+      "progress": {
+        "watched": 1310.3226614255377,
+        "duration": 3600
+      },
+      "last_season_watched": "7",
+      "last_episode_watched": "4",
+      "last_updated": 1781236952722,
+      "rating": "TV-PG",
+      "seasons": [
+        {
+          "air_date": "2024-05-07",
+          "episode_count": 19,
+          "id": 395508,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2020-03-31",
+          "episode_count": 8,
+          "id": 146761,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/uprdlpNGDhZDOzWghLt7hSRSVUa.jpg",
+          "season_number": 1,
+          "vote_average": 5.6
+        },
+        {
+          "air_date": "2021-05-04",
+          "episode_count": 10,
+          "id": 189859,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/hZAThwU0Z1QQIryfrzXWxyj80Xe.jpg",
+          "season_number": 2,
+          "vote_average": 5
+        },
+        {
+          "air_date": "2022-05-03",
+          "episode_count": 11,
+          "id": 292446,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/j8PpovebgIhrt89AQVvkogcX34v.jpg",
+          "season_number": 3,
+          "vote_average": 5
+        },
+        {
+          "air_date": "2023-04-18",
+          "episode_count": 15,
+          "id": 326372,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/8LAqGpzAOyrAgLDPOq5vdoHUYl4.jpg",
+          "season_number": 4,
+          "vote_average": 5.3
+        },
+        {
+          "air_date": "2024-04-23",
+          "episode_count": 14,
+          "id": 367497,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": "/6EuUEYIQHowJja65qex4psgoTbP.jpg",
+          "season_number": 5,
+          "vote_average": 5.3
+        },
+        {
+          "air_date": "2025-06-03",
+          "episode_count": 14,
+          "id": 424150,
+          "name": "Season 6",
+          "overview": "",
+          "poster_path": "/eedT1SrOsv9PVrTWXjfkvOKq0jd.jpg",
+          "season_number": 6,
+          "vote_average": 8.8
+        },
+        {
+          "air_date": "2026-05-19",
+          "episode_count": 7,
+          "id": 476499,
+          "name": "Season 7",
+          "overview": "",
+          "poster_path": "/A6DVM4XNUeTePyqpJFJQgNCX2bI.jpg",
+          "season_number": 7,
+          "vote_average": 10
+        }
+      ]
+    },
+    "tmdb-37430": {
+      "id": "37430",
+      "type": "movie",
+      "title": "Conan the Barbarian",
+      "poster_path": "/sSMjZmOtqzlRTYSUFPmIXTV4rhh.jpg",
+      "progress": {
+        "watched": 929.9483459961641,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1779476360057,
+      "rating": "R"
+    },
+    "tmdb-86031": {
+      "id": "86031",
+      "type": "anime",
+      "title": "Dr. STONE",
+      "poster_path": "/xfpSBNhBdQyrN3dTigqRVrOvSh1.jpg",
+      "progress": {
+        "watched": 3123.87745076168,
+        "duration": 3600
+      },
+      "last_season_watched": "4",
+      "last_episode_watched": "24",
+      "last_updated": 1779476424857,
+      "rating": "TV-14",
+      "seasons": [
+        {
+          "air_date": "2019-09-20",
+          "episode_count": 3,
+          "id": 166462,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/mKHXWZJsPu4nHKHbdtxJBWj5A1N.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2019-07-05",
+          "episode_count": 24,
+          "id": 117113,
+          "name": "Season 1",
+          "overview": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he’s not alone! His science-loving friend Senku’s been up and running for a few months and he's got a grand plan in mind—to kickstart civilization with the power of science!",
+          "poster_path": "/kqWfyeMaBD5fsTmj6p5YB508DHa.jpg",
+          "season_number": 1,
+          "vote_average": 7.3
+        },
+        {
+          "air_date": "2021-01-14",
+          "episode_count": 11,
+          "id": 164875,
+          "name": "Stone Wars",
+          "overview": "Armed with the power of science and a genius intellect, Senkuu is determined to save humanity. However, Tsukasa’s empire goes on the offensive to halt the progress of science. Bolder choices are made as these two start a war that rocks the Stone World.",
+          "poster_path": "/4ivxNBOzHf1rIUgHmqxvkr2Khem.jpg",
+          "season_number": 2,
+          "vote_average": 6.9
+        },
+        {
+          "air_date": "2023-04-06",
+          "episode_count": 22,
+          "id": 300424,
+          "name": "New World",
+          "overview": "Senkuu and the Kingdom of Science sail to new lands to uncover more scientific secrets!",
+          "poster_path": "/koZWJFAhUwab4FPofFUCkHzSEcg.jpg",
+          "season_number": 3,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2025-01-09",
+          "episode_count": 37,
+          "id": 370955,
+          "name": "Science Future",
+          "overview": "After the battle on Treasure Island, Senku and the gang return to the Kingdom of Science. With their sights set on the Moon, they must first voyage to the Americas in hopes of beginning to harvest the required materials. Through teamwork and science, they continue the fight to save humanity once and for all!",
+          "poster_path": "/nKhEks4Lxgv63cyivxnXdtIG1tg.jpg",
+          "season_number": 4,
+          "vote_average": 8.2
+        }
+      ]
+    },
+    "tmdb-27109": {
+      "id": "27109",
+      "type": "tv",
+      "title": "Prison Wives",
+      "poster_path": "/9sX2MjhgXMm4AZ77NqUaULQdnz3.jpg",
+      "progress": {
+        "watched": 1301.1569611022871,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "3",
+      "last_updated": 1780016016527,
+      "rating": "12",
+      "seasons": [
+        {
+          "air_date": "2010-02-24",
+          "episode_count": 10,
+          "id": 37899,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ]
+    },
+    "tmdb-62413": {
+      "id": "62413",
+      "type": "tv",
+      "title": "Killjoys",
+      "poster_path": "/xnQ7WVAxlk9UAVWDLDeYGTKRaOf.jpg",
+      "progress": {
+        "watched": 1083.0571925600007,
+        "duration": 3600
+      },
+      "last_season_watched": "1",
+      "last_episode_watched": "1",
+      "last_updated": 1780279129158,
+      "rating": "TV-MA",
+      "seasons": [
+        {
+          "air_date": "2015-06-19",
+          "episode_count": 10,
+          "id": 65979,
+          "name": "Season 1",
+          "overview": "Season one begins the journey of the trio of bounty hunters, a motley crew that always has each other's back, until a dark secret threatens to tear apart their trio for good.",
+          "poster_path": "/taRUAFz04rwbnDMrukuZjBgVYF1.jpg",
+          "season_number": 1,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2016-07-01",
+          "episode_count": 10,
+          "id": 76730,
+          "name": "Season 2",
+          "overview": "Following the season 1 cliffhanger, Dutch, Johnny and D’avin hit the ground running in season 2 to uncover Dutch’s duplicitous and mysterious childhood mentor, Khlyen’s secret agenda. As shocking truths are revealed, Dutch, D’avin and Johnny realize the Quad’s notorious criminals are no match for the threat within the Reclamation Apprehension Coalition (RAC).",
+          "poster_path": "/4becXjxVsQgaVElSImMcL5vkmft.jpg",
+          "season_number": 2,
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "2017-06-30",
+          "episode_count": 10,
+          "id": 89043,
+          "name": "Season 3",
+          "overview": "Remember when chasing warrants were Dutch, Johnny and D'avin's biggest problems? Can't believe that it was all so simple. Out of the ashes of Khylen's death, Aneela and her army are preparing for battle in season three. With Johnny on the lamb, Dutch and D'avin are down one member as they prepare for the fight of their lives.",
+          "poster_path": "/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg",
+          "season_number": 3,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2018-07-20",
+          "episode_count": 10,
+          "id": 106168,
+          "name": "Season 4",
+          "overview": "The end of Season 3 left our Killjoys scattered to the far corners of The J galaxy and beyond. Dutch  is on a journey to face her biggest foe yet, while D’av and John are trapped in an elevator in deep space with a pregnant Delle Seyah. They are united by the knowledge of the name of their true enemy: The Lady, an immeasurable manifestation of evil without beginning or end. The Lady is making her play, and our trio has something she wants.",
+          "poster_path": "/sIyc5Z7GQndcuCsIDSfaDaVbS7r.jpg",
+          "season_number": 4,
+          "vote_average": 6.6
+        },
+        {
+          "air_date": "2019-07-19",
+          "episode_count": 10,
+          "id": 112015,
+          "name": "Season 5",
+          "overview": "Season 5 serves as the thrilling conclusion to the series, with the team facing their most formidable adversary yet. As the Quad teeters on the brink of chaos, Dutch, Johnny, and D'avin must confront personal challenges and unravel deep-seated mysteries to protect their world. The season is packed with high-stakes missions and emotional moments that bring the story full circle.",
+          "poster_path": "/lJX8c1IYAsnOaa1ILO8xOUO0L1I.jpg",
+          "season_number": 5,
+          "vote_average": 8
         }
       ]
     }
